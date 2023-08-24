@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/action
+END
+DamageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/action/DamageType.java
+END
+Actions.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/action/Actions.java
+END
+HpUseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/action/HpUseAction.java
+END
+MpUseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/action/MpUseAction.java
+END
+ItemUseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/action/ItemUseAction.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/action/Action.java
+END
+DpUseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/action/DpUseAction.java
+END

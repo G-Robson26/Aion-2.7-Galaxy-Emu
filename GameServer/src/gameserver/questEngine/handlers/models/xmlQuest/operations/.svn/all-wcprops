@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/operations
+END
+KillOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/operations/KillOperation.java
+END
+StartQuestOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/operations/StartQuestOperation.java
+END
+NpcDialogOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/operations/NpcDialogOperation.java
+END
+QuestOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/operations/QuestOperation.java
+END
+SetQuestStatusOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/operations/SetQuestStatusOperation.java
+END
+TakeItemOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/operations/TakeItemOperation.java
+END
+QuestOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/operations/QuestOperations.java
+END
+SetQuestVarOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/operations/SetQuestVarOperation.java
+END
+CollectItemQuestOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/operations/CollectItemQuestOperation.java
+END
+ActionItemUseOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/operations/ActionItemUseOperation.java
+END
+GiveItemOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/operations/GiveItemOperation.java
+END

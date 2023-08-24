@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/160/trunk/GameServer/src/gameserver/configs/network
+END
+IPConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/network/IPConfig.java
+END
+NetworkConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/160/trunk/GameServer/src/gameserver/configs/network/NetworkConfig.java
+END
+FloodConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/143/trunk/GameServer/src/gameserver/configs/network/FloodConfig.java
+END

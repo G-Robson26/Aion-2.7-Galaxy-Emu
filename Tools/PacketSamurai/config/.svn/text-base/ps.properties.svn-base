@@ -1,0 +1,10 @@
+#Packet Samurai Config
+#Thu Jun 14 19:24:41 CEST 2012
+RepositoryProxyHost=
+RepositoryUser=
+RepositoryPass=
+SnifferProtocols=7777\:Game_3.0.0.x;2106\:Login_2.7.0.x
+protocols=./protocols
+RepositoryProxyPort=
+RepositoryProxyActive=False
+LookAndFeel=System

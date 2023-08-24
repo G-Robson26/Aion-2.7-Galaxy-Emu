@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/11/trunk/ChatServer/lib
+END
+commons-pool-1.5.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/ChatServer/lib/commons-pool-1.5.4.jar
+END
+netty-3.2.0.BETA1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/ChatServer/lib/netty-3.2.0.BETA1.jar
+END
+commons-lang-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/ChatServer/lib/commons-lang-2.5.jar
+END
+ax-commons-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/ChatServer/lib/ax-commons-1.0.1.jar
+END
+javolution-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/ChatServer/lib/javolution-5.5.1.jar
+END
+junit-4.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/trunk/ChatServer/lib/junit-4.6.jar
+END
+commons-io-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/ChatServer/lib/commons-io-1.4.jar
+END
+javac-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/trunk/ChatServer/lib/javac-1.0.jar
+END
+commons-dbcp-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/ChatServer/lib/commons-dbcp-1.4.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/trunk/ChatServer/lib/log4j-1.2.16.jar
+END

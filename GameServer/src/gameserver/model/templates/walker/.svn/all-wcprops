@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/walker
+END
+WalkerTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/walker/WalkerTemplate.java
+END
+RouteData.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/walker/RouteData.java
+END
+RouteStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/walker/RouteStep.java
+END

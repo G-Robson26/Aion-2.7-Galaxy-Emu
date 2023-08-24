@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/pet
+END
+PetStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/pet/PetStatsTemplate.java
+END
+PetTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/pet/PetTemplate.java
+END
+PetFlavour.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/pet/PetFlavour.java
+END
+FoodGroups.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/pet/FoodGroups.java
+END
+FoodType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/pet/FoodType.java
+END
+PetFunctionTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/pet/PetFunctionTemplate.java
+END
+PetFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/pet/PetFunction.java
+END
+PetFunctionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/pet/PetFunctionType.java
+END
+PetRewards.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/pet/PetRewards.java
+END
+PetRewardDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/pet/PetRewardDescription.java
+END

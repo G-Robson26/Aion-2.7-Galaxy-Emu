@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/256/trunk/GameServer/data/static_data/skills
+END
+skills.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112/trunk/GameServer/data/static_data/skills/skills.xsd
+END
+skill_templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/256/trunk/GameServer/data/static_data/skills/skill_templates.xml
+END

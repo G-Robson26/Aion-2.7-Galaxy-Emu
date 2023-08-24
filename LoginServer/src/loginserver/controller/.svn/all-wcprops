@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/223/trunk/LoginServer/src/loginserver/controller
+END
+BannedMacManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/223/trunk/LoginServer/src/loginserver/controller/BannedMacManager.java
+END
+BannedIpController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/LoginServer/src/loginserver/controller/BannedIpController.java
+END
+FloodController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/143/trunk/LoginServer/src/loginserver/controller/FloodController.java
+END
+AccountTimeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/LoginServer/src/loginserver/controller/AccountTimeController.java
+END
+AccountController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/223/trunk/LoginServer/src/loginserver/controller/AccountController.java
+END

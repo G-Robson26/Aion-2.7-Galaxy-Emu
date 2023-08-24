@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/256/trunk/GameServer/src/gameserver/network
+END
+EncryptionKeyPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/107/trunk/GameServer/src/gameserver/network/EncryptionKeyPair.java
+END
+Crypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/Crypt.java
+END
+KeyAlreadySetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/KeyAlreadySetException.java
+END

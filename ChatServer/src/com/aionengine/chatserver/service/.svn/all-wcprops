@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/11/trunk/ChatServer/src/com/aionengine/chatserver/service
+END
+BroadcastService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/ChatServer/src/com/aionengine/chatserver/service/BroadcastService.java
+END
+ChatService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/ChatServer/src/com/aionengine/chatserver/service/ChatService.java
+END
+GameServerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/ChatServer/src/com/aionengine/chatserver/service/GameServerService.java
+END

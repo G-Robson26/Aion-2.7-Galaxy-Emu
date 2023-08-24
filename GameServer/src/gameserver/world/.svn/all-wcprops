@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/246/trunk/GameServer/src/gameserver/world
+END
+ShieldKnownList.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/world/ShieldKnownList.java
+END
+MapRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/world/MapRegion.java
+END
+FlyRingKnownList.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/world/FlyRingKnownList.java
+END
+WorldMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/world/WorldMap.java
+END
+World.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/246/trunk/GameServer/src/gameserver/world/World.java
+END
+WorldMapType.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/147/trunk/GameServer/src/gameserver/world/WorldMapType.java
+END
+StaticObjectKnownList.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/245/trunk/GameServer/src/gameserver/world/StaticObjectKnownList.java
+END
+KnownList.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/245/trunk/GameServer/src/gameserver/world/KnownList.java
+END
+NpcKnownList.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/245/trunk/GameServer/src/gameserver/world/NpcKnownList.java
+END
+WorldType.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/world/WorldType.java
+END
+Executor.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/world/Executor.java
+END
+RoadKnownList.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/75/trunk/GameServer/src/gameserver/world/RoadKnownList.java
+END
+GeoData.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/world/GeoData.java
+END
+ObjectContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/world/ObjectContainer.java
+END
+WorldMapInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/53/trunk/GameServer/src/gameserver/world/WorldMapInstance.java
+END
+WorldPosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/101/trunk/GameServer/src/gameserver/world/WorldPosition.java
+END

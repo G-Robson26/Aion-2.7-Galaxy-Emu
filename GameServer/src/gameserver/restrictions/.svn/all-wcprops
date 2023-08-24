@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/restrictions
+END
+RestrictionsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/restrictions/RestrictionsManager.java
+END
+PrisonRestrictions.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/restrictions/PrisonRestrictions.java
+END
+ShutdownRestrictions.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/restrictions/ShutdownRestrictions.java
+END
+PlayerRestrictions.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/restrictions/PlayerRestrictions.java
+END
+RestrictionPriority.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/restrictions/RestrictionPriority.java
+END
+Restrictions.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/restrictions/Restrictions.java
+END
+AbstractRestrictions.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/restrictions/AbstractRestrictions.java
+END
+DisabledRestriction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/restrictions/DisabledRestriction.java
+END

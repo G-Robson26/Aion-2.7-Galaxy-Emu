@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+	This file is part of Aion X Emu <aionxemu.com>.
+
+	This is free software: you can redistribute it and/or modify
+	it under the terms of the GNU Lesser Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	This software is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU Lesser Public License for more details.
+
+	You should have received a copy of the GNU Lesser Public License
+	along with this software.  If not, see <http://www.gnu.org/licenses/>.
+	
+	@author Atomix
+ -->
+<spawns>
+	<!-- Hermione -->
+	<spawn map="310120000" npcid="205119" pool="1" interval="295">
+		<object x="85.0" y="191.0" z="232.0" h="0"/>
+	</spawn>
+	<!-- Orissan Healer -->
+	<spawn map="310120000" npcid="215399" pool="10" interval="295">
+		<object x="226.499" y="265.119" z="205.301" h="23"/>
+		<object x="220.046" y="264.622" z="205.867" h="68"/>
+		<object x="288.858" y="250.769" z="207.072" h="31"/>
+		<object x="230.682" y="239.463" z="206.075" h="47"/>
+		<object x="223.772" y="236.356" z="206.679" h="30"/>
+		<object x="248.799" y="232.146" z="205.893" h="118"/>
+		<object x="260.149" y="222.969" z="206.117" h="2"/>
+		<object x="274.312" y="222.251" z="208.656" h="9"/>
+		<object x="283.246" y="227.93" z="209.19" h="17"/>
+		<object x="278.583" y="282.301" z="208.55" h="43"/>
+	</spawn>
+	<!-- Orissan Archer -->
+	<spawn map="310120000" npcid="215398" pool="15" interval="295">
+		<object x="267.188" y="300.523" z="206.294" h="42"/>
+		<object x="250.002" y="300.8" z="205.367" h="66"/>
+		<object x="236.397" y="288.134" z="206.478" h="74"/>
+		<object x="218.76" y="282.291" z="206.856" h="64"/>
+		<object x="207.388" y="268.19" z="203.413" h="77"/>
+		<object x="238.499" y="234.714" z="206.306" h="106"/>
+		<object x="244.894" y="215.247" z="206.651" h="96"/>
+		<object x="268.683" y="206.452" z="206.409" h="108"/>
+		<object x="288.097" y="206.529" z="208.089" h="0"/>
+		<object x="301.905" y="213.549" z="209.57" h="11"/>
+		<object x="305.938" y="242.8" z="206.601" h="12"/>
+		<object x="306.689" y="263.517" z="205.228" h="27"/>
+		<object x="278.647" y="272.457" z="210.653" h="56"/>
+		<object x="268.689" y="279.611" z="212.146" h="60"/>
+		<object x="282.427" y="241.968" z="212.02" h="80"/>
+	</spawn>
+	<!-- Orissan Grunt -->
+	<spawn map="310120000" npcid="215397" pool="15" interval="295">
+		<object x="223.498" y="226.22" z="207.257" h="86"/>
+		<object x="228.929" y="219.115" z="206.842" h="109"/>
+		<object x="223.975" y="208.377" z="207.859" h="81"/>
+		<object x="249.767" y="205.787" z="206.259" h="117"/>
+		<object x="262.451" y="215.312" z="205.823" h="10"/>
+		<object x="266.347" y="233.701" z="211.146" h="26"/>
+		<object x="261.324" y="245.062" z="211.66" h="37"/>
+		<object x="251.992" y="249.075" z="212.005" h="49"/>
+		<object x="288.57" y="216.854" z="207.218" h="20"/>
+		<object x="304.569" y="227.437" z="208.347" h="14"/>
+		<object x="293.124" y="267.387" z="206.498" h="41"/>
+		<object x="280.813" y="298.142" z="206.263" h="58"/>
+		<object x="265.617" y="288.467" z="207.336" h="68"/>
+		<object x="253.551" y="282.689" z="211.532" h="71"/>
+		<object x="233.308" y="299.832" z="206.722" h="50"/>
+	</spawn>
+	<!-- Orissan Raider -->
+	<spawn map="310120000" npcid="215396" pool="10" interval="295">
+		<object x="242.747" y="249.09" z="207.734" h="117"/>
+		<object x="240.107" y="264.48" z="210.459" h="23"/>
+		<object x="245.029" y="272.432" z="212.336" h="118"/>
+		<object x="245.84" y="313.301" z="204.842" h="28"/>
+		<object x="262.634" y="312.981" z="205.936" h="117"/>
+		<object x="297.629" y="301.906" z="206.788" h="1"/>
+		<object x="310.693" y="297.887" z="206.665" h="82"/>
+		<object x="315.207" y="272.918" z="205.924" h="104"/>
+		<object x="290.638" y="241.791" z="207.949" h="74"/>
+		<object x="278.468" y="203.223" z="208.559" h="95"/>
+	</spawn>
+	<!-- Artifact of Memory -->
+	<spawn map="310120000" interval="215" npcid="700552" pool="1">
+		<object x="301.135" y="287.107" z="206.6" h="20" staticid="82"/>
+	</spawn>
+</spawns>

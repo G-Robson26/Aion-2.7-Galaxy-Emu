@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/119/trunk/GameServer/src/gameserver/model/alliance
+END
+PlayerAlliance.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/119/trunk/GameServer/src/gameserver/model/alliance/PlayerAlliance.java
+END
+PlayerAllianceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/alliance/PlayerAllianceEvent.java
+END
+PlayerAllianceMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/alliance/PlayerAllianceMember.java
+END
+PlayerAllianceGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/alliance/PlayerAllianceGroup.java
+END

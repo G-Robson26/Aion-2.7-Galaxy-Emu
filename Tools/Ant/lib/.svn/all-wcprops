@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/11/trunk/Tools/Ant/lib
+END
+ant-apache-oro.pom
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-oro.pom
+END
+ant-apache-resolver.pom
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-resolver.pom
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/README
+END
+ant-apache-bcel.pom
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-bcel.pom
+END
+ant-javamail.pom
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-javamail.pom
+END
+ant-jai.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-jai.jar
+END
+ant-apache-xalan2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-xalan2.jar
+END
+ant-swing.pom
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-swing.pom
+END
+ant-jsch.pom
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-jsch.pom
+END
+ant-parent.pom
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-parent.pom
+END
+ant-apache-bsf.pom
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-bsf.pom
+END
+ant-jdepend.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-jdepend.jar
+END
+ant-jmf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-jmf.jar
+END
+libraries.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/libraries.properties
+END
+ant-testutil.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-testutil.jar
+END
+ant-junit4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-junit4.jar
+END
+ant-antlr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-antlr.jar
+END
+ant-jai.pom
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-jai.pom
+END
+ant-apache-xalan2.pom
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-xalan2.pom
+END
+ant-jdepend.pom
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-jdepend.pom
+END
+ant-junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-junit.jar
+END
+ant-jmf.pom
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-jmf.pom
+END
+ant-testutil.pom
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-testutil.pom
+END
+ant-junit4.pom
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-junit4.pom
+END
+ant-netrexx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-netrexx.jar
+END
+ant-apache-log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-log4j.jar
+END
+ant-commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-commons-logging.jar
+END
+ant-commons-net.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-commons-net.jar
+END
+ant-antlr.pom
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-antlr.pom
+END
+ant-launcher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-launcher.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant.jar
+END
+ant-junit.pom
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-junit.pom
+END
+ant-apache-regexp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-regexp.jar
+END
+ant-netrexx.pom
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-netrexx.pom
+END
+ant-apache-log4j.pom
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-log4j.pom
+END
+ant-apache-oro.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-oro.jar
+END
+ant-commons-logging.pom
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-commons-logging.pom
+END
+ant-commons-net.pom
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-commons-net.pom
+END
+ant-apache-resolver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-resolver.jar
+END
+ant-launcher.pom
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-launcher.pom
+END
+ant.pom
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant.pom
+END
+ant-apache-bcel.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-bcel.jar
+END
+ant-javamail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-javamail.jar
+END
+ant-jsch.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-jsch.jar
+END
+ant-swing.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-swing.jar
+END
+ant-apache-regexp.pom
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-regexp.pom
+END
+ant-apache-bsf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/Tools/Ant/lib/ant-apache-bsf.jar
+END

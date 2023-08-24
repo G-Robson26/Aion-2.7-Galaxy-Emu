@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/81/trunk/GameServer/src/gameserver/questEngine/model
+END
+QuestCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/model/QuestCookie.java
+END
+QuestVars.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/model/QuestVars.java
+END
+ConditionUnionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/model/ConditionUnionType.java
+END
+QuestState.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/model/QuestState.java
+END
+QuestStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/model/QuestStatus.java
+END
+QuestStartCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/81/trunk/GameServer/src/gameserver/questEngine/model/QuestStartCondition.java
+END
+ConditionOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/model/ConditionOperation.java
+END
+QuestStartConditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/81/trunk/GameServer/src/gameserver/questEngine/model/QuestStartConditions.java
+END

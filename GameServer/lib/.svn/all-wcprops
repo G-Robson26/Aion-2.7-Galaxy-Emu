@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/177/trunk/GameServer/lib
+END
+trove-2.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/GameServer/lib/trove-2.1.0.jar
+END
+commons-lang-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/177/trunk/GameServer/lib/commons-lang-2.5.jar
+END
+javolution-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/GameServer/lib/javolution-5.5.1.jar
+END
+junit-4.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/trunk/GameServer/lib/junit-4.6.jar
+END
+mysql-connector-java-5.1.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/177/trunk/GameServer/lib/mysql-connector-java-5.1.13.jar
+END
+GeoEngine.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/160/trunk/GameServer/lib/GeoEngine.jar
+END
+commons-io-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/GameServer/lib/commons-io-1.4.jar
+END
+commons-dbcp-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/GameServer/lib/commons-dbcp-1.4.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/trunk/GameServer/lib/log4j-1.2.16.jar
+END
+ax_commons.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/trunk/GameServer/lib/ax_commons.jar
+END
+javac.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11/trunk/GameServer/lib/javac.jar
+END
+commons-pool-1.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/GameServer/lib/commons-pool-1.5.5.jar
+END
+aopalliance.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/GameServer/lib/aopalliance.jar
+END
+xSocket-2.8.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/177/trunk/GameServer/lib/xSocket-2.8.15.jar
+END

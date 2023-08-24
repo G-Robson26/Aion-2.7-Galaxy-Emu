@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/skillengine/properties
+END
+TargetSpeciesAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/skillengine/properties/TargetSpeciesAttribute.java
+END
+TargetRangeAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/properties/TargetRangeAttribute.java
+END
+TargetRangeProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/properties/TargetRangeProperty.java
+END
+TargetRelationAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/properties/TargetRelationAttribute.java
+END
+TargetRelationProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/properties/TargetRelationProperty.java
+END
+Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/properties/Properties.java
+END
+FirstTargetRangeProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/properties/FirstTargetRangeProperty.java
+END
+FirstTargetAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/properties/FirstTargetAttribute.java
+END
+FirstTargetProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/properties/FirstTargetProperty.java
+END
+AddWeaponRangeProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/properties/AddWeaponRangeProperty.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/properties/Property.java
+END

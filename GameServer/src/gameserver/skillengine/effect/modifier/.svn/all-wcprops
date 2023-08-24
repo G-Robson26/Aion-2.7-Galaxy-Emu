@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/modifier
+END
+ActionModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/modifier/ActionModifier.java
+END
+BackDamageModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/modifier/BackDamageModifier.java
+END
+ActionModifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/modifier/ActionModifiers.java
+END
+TargetRaceDamageModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/modifier/TargetRaceDamageModifier.java
+END
+PoisonDamageModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/modifier/PoisonDamageModifier.java
+END
+FrontDamageModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/modifier/FrontDamageModifier.java
+END
+StunDamageModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/modifier/StunDamageModifier.java
+END
+StumbleDamageModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/modifier/StumbleDamageModifier.java
+END

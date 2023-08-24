@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/171/trunk/GameServer/src/gameserver/model/templates/item
+END
+TradeInTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/166/trunk/GameServer/src/gameserver/model/templates/item/TradeInTemplate.java
+END
+ArmorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/item/ArmorType.java
+END
+Stigma.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/item/Stigma.java
+END
+EquipType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/item/EquipType.java
+END
+ItemRace.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/item/ItemRace.java
+END
+ItemTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/171/trunk/GameServer/src/gameserver/model/templates/item/ItemTemplate.java
+END
+WeaponType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/item/WeaponType.java
+END
+ItemCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/item/ItemCategory.java
+END
+GodstoneInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/item/GodstoneInfo.java
+END
+ItemType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/item/ItemType.java
+END
+inZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/143/trunk/GameServer/src/gameserver/model/templates/item/inZone.java
+END
+TradeInItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/166/trunk/GameServer/src/gameserver/model/templates/item/TradeInItem.java
+END
+ItemBonus.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/item/ItemBonus.java
+END
+ItemQuality.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/item/ItemQuality.java
+END
+RequireSkill.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/item/RequireSkill.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/223/trunk/GameServer/src/gameserver/network/loginserver/clientpackets
+END
+CM_ACCOUNT_RECONNECT_KEY.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/clientpackets/CM_ACCOUNT_RECONNECT_KEY.java
+END
+CM_REQUEST_KICK_ACCOUNT.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/clientpackets/CM_REQUEST_KICK_ACCOUNT.java
+END
+CM_GS_AUTH_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/clientpackets/CM_GS_AUTH_RESPONSE.java
+END
+CM_ACOUNT_AUTH_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/clientpackets/CM_ACOUNT_AUTH_RESPONSE.java
+END
+CM_MACBAN_REQUEST_MAC.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/223/trunk/GameServer/src/gameserver/network/loginserver/clientpackets/CM_MACBAN_REQUEST_MAC.java
+END
+CM_LS_REQUEST_CHARACTER_COUNT.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/clientpackets/CM_LS_REQUEST_CHARACTER_COUNT.java
+END
+CM_MACBAN_LIST.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/223/trunk/GameServer/src/gameserver/network/loginserver/clientpackets/CM_MACBAN_LIST.java
+END
+CM_LS_CONTROL_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/clientpackets/CM_LS_CONTROL_RESPONSE.java
+END
+CM_BAN_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/clientpackets/CM_BAN_RESPONSE.java
+END

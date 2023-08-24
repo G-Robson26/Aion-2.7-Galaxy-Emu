@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/250/trunk/GameServer/data/static_data/drops
+END
+droplist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/250/trunk/GameServer/data/static_data/drops/droplist.xml
+END
+droplist.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/180/trunk/GameServer/data/static_data/drops/droplist.xsd
+END

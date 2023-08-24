@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:include schemaLocation="../import.xsd" />
+
+	<xs:element name="academy_box_spawns">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="import" minOccurs="0" maxOccurs="unbounded" />
+				<xs:element name="box" type="BoxSpawn" minOccurs="0" maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:complexType name="BoxSpawn">
+		<xs:sequence>
+			<xs:element name="box_loc" type="BoxLocation" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="map" type="xs:int"/>
+		<xs:attribute name="npcid" type="xs:int" />
+		<xs:attribute name="pool" type="xs:int" />
+	</xs:complexType>
+
+	<xs:complexType name="BoxLocation">
+		<xs:attribute name="x" type="xs:float" />
+		<xs:attribute name="y" type="xs:float" />
+		<xs:attribute name="z" type="xs:float" />
+		<xs:attribute name="h" type="BoxHead" />
+	</xs:complexType>
+	
+	<xs:simpleType name="BoxHead">
+		<xs:restriction base="xs:byte">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="120"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+</xs:schema>

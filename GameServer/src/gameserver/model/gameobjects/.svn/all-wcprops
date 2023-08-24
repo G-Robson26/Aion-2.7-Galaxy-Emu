@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/256/trunk/GameServer/src/gameserver/model/gameobjects
+END
+LFGApplyGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/LFGApplyGroup.java
+END
+NpcWithCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/model/gameobjects/NpcWithCreator.java
+END
+Survey.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/103/trunk/GameServer/src/gameserver/model/gameobjects/Survey.java
+END
+GroupGate.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/GroupGate.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/Item.java
+END
+Gatherable.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/Gatherable.java
+END
+Letter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/Letter.java
+END
+PersistentState.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/PersistentState.java
+END
+Kisk.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/Kisk.java
+END
+BrokerItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/129/trunk/GameServer/src/gameserver/model/gameobjects/BrokerItem.java
+END
+DropNpc.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/DropNpc.java
+END
+Trap.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/Trap.java
+END
+SkillAreaNpc.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/model/gameobjects/SkillAreaNpc.java
+END
+NpcObjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/model/gameobjects/NpcObjectType.java
+END
+Creature.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/246/trunk/GameServer/src/gameserver/model/gameobjects/Creature.java
+END
+AionObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/AionObject.java
+END
+StaticObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/StaticObject.java
+END
+Summon.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/Summon.java
+END
+Npc.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/225/trunk/GameServer/src/gameserver/model/gameobjects/Npc.java
+END
+Homing.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/model/gameobjects/Homing.java
+END
+Servant.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/Servant.java
+END
+LFGRecruitGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/LFGRecruitGroup.java
+END
+VisibleObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/246/trunk/GameServer/src/gameserver/model/gameobjects/VisibleObject.java
+END
+Monster.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/Monster.java
+END
+Totem.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/model/gameobjects/Totem.java
+END

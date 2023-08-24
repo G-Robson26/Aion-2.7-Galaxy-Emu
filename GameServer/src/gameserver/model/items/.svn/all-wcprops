@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/items
+END
+GodStone.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/items/GodStone.java
+END
+ItemCooldown.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/items/ItemCooldown.java
+END
+ItemStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/items/ItemStorage.java
+END
+ManaStone.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/items/ManaStone.java
+END
+ItemStone.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/items/ItemStone.java
+END
+ItemMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/items/ItemMask.java
+END
+ItemId.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/items/ItemId.java
+END
+FusionStone.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/items/FusionStone.java
+END
+NpcEquippedGear.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/items/NpcEquippedGear.java
+END
+ItemSlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/items/ItemSlot.java
+END

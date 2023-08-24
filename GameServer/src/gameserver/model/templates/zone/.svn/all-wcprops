@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/zone
+END
+Points.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/zone/Points.java
+END
+Point2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/zone/Point2D.java
+END
+ZoneTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/zone/ZoneTemplate.java
+END

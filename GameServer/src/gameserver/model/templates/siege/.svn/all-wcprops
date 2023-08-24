@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/43/trunk/GameServer/src/gameserver/model/templates/siege
+END
+SiegeGuardTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/SiegeGuardTemplate.java
+END
+AethericFieldShieldTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/AethericFieldShieldTemplate.java
+END
+FortressGateArtifactHealGateTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/FortressGateArtifactHealGateTemplate.java
+END
+SiegeSingleSpawnBaseInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/SiegeSingleSpawnBaseInfo.java
+END
+SiegeLocationTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/43/trunk/GameServer/src/gameserver/model/templates/siege/SiegeLocationTemplate.java
+END
+InstancePortalTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/InstancePortalTemplate.java
+END
+FortressGateArtifactTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/FortressGateArtifactTemplate.java
+END
+AethericFieldTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/AethericFieldTemplate.java
+END
+ArtifactTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/ArtifactTemplate.java
+END
+SiegeSpawnLocationTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/SiegeSpawnLocationTemplate.java
+END
+ArtifactProtectorTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/ArtifactProtectorTemplate.java
+END
+AethericFieldGeneratorTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/AethericFieldGeneratorTemplate.java
+END
+SiegeRewardTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/SiegeRewardTemplate.java
+END
+SiegeReward.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/SiegeReward.java
+END
+FortressGeneralTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/FortressGeneralTemplate.java
+END
+SiegeSpawnList.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/SiegeSpawnList.java
+END
+SiegeGuards.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/SiegeGuards.java
+END
+FortressGateTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/FortressGateTemplate.java
+END
+ArtifactEffectTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/siege/ArtifactEffectTemplate.java
+END

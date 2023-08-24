@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/11/trunk/LoginServer/lib
+END
+jsr166.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11/trunk/LoginServer/lib/jsr166.jar
+END
+commons-lang-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/LoginServer/lib/commons-lang-2.5.jar
+END
+javolution-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/LoginServer/lib/javolution-5.5.1.jar
+END
+junit-4.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/trunk/LoginServer/lib/junit-4.6.jar
+END
+mysql-connector-java-5.1.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/LoginServer/lib/mysql-connector-java-5.1.13.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/LoginServer/lib/log4j-1.2.16.jar
+END
+ax_commons.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/LoginServer/lib/ax_commons.jar
+END
+javassist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/trunk/LoginServer/lib/javassist.jar
+END
+bcprov-jdk16-143.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/LoginServer/lib/bcprov-jdk16-143.jar
+END
+commons-io-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/LoginServer/lib/commons-io-1.4.jar
+END
+commons-dbcp-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/LoginServer/lib/commons-dbcp-1.4.jar
+END
+LICENCE_mysql-connector.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/LoginServer/lib/LICENCE_mysql-connector.txt
+END
+javac.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11/trunk/LoginServer/lib/javac.jar
+END
+LICENSE_commons-dbcp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/LoginServer/lib/LICENSE_commons-dbcp.txt
+END
+commons-pool-1.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/LoginServer/lib/commons-pool-1.5.5.jar
+END
+LICENSE_commons-pool.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/LoginServer/lib/LICENSE_commons-pool.txt
+END

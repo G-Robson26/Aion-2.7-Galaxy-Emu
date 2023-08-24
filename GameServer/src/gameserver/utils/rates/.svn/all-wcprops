@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/179/trunk/GameServer/src/gameserver/utils/rates
+END
+Rates.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/179/trunk/GameServer/src/gameserver/utils/rates/Rates.java
+END
+RegularRates.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/179/trunk/GameServer/src/gameserver/utils/rates/RegularRates.java
+END
+VipRates.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/179/trunk/GameServer/src/gameserver/utils/rates/VipRates.java
+END
+PremiumRates.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/179/trunk/GameServer/src/gameserver/utils/rates/PremiumRates.java
+END

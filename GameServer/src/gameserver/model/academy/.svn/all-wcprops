@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/academy
+END
+AcademyStage.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/academy/AcademyStage.java
+END
+AcademyRound.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/academy/AcademyRound.java
+END
+AcademyBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/academy/AcademyBox.java
+END
+AcademyShigoStage.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/academy/AcademyShigoStage.java
+END
+AcademuSoloRound.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/academy/AcademuSoloRound.java
+END
+AcademySoloStage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/academy/AcademySoloStage.java
+END
+AcademyTeleportStage.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/academy/AcademyTeleportStage.java
+END

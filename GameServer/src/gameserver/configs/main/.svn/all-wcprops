@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/258/trunk/GameServer/src/gameserver/configs/main
+END
+PricesConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/PricesConfig.java
+END
+InGameShopConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/InGameShopConfig.java
+END
+RateConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/179/trunk/GameServer/src/gameserver/configs/main/RateConfig.java
+END
+NpcMovementConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/NpcMovementConfig.java
+END
+SiegeConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/143/trunk/GameServer/src/gameserver/configs/main/SiegeConfig.java
+END
+GroupConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/GroupConfig.java
+END
+TaskManagerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/TaskManagerConfig.java
+END
+CraftConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/CraftConfig.java
+END
+CacheConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/CacheConfig.java
+END
+EnchantsConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/258/trunk/GameServer/src/gameserver/configs/main/EnchantsConfig.java
+END
+HTMLConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/HTMLConfig.java
+END
+DropConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/179/trunk/GameServer/src/gameserver/configs/main/DropConfig.java
+END
+GeoDataConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/GeoDataConfig.java
+END
+ThreadConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/ThreadConfig.java
+END
+GSConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/254/trunk/GameServer/src/gameserver/configs/main/GSConfig.java
+END
+CustomConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/256/trunk/GameServer/src/gameserver/configs/main/CustomConfig.java
+END
+ShutdownConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/ShutdownConfig.java
+END
+PeriodicSaveConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/PeriodicSaveConfig.java
+END
+FallDamageConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/FallDamageConfig.java
+END
+LegionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/LegionConfig.java
+END
+EventConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/configs/main/EventConfig.java
+END

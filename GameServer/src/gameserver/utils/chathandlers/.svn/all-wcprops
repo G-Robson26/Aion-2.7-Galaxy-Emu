@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/chathandlers
+END
+ChatHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/chathandlers/ChatHandlers.java
+END
+CustomChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/chathandlers/CustomChannel.java
+END
+ChatHandlersLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/chathandlers/ChatHandlersLoader.java
+END
+AdminCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/chathandlers/AdminCommand.java
+END
+CommandChatHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/chathandlers/CommandChatHandler.java
+END
+ChatHandlerResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/chathandlers/ChatHandlerResponse.java
+END
+ChatHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/chathandlers/ChatHandler.java
+END
+UserCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/chathandlers/UserCommand.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11/trunk/Tools/AE-Manager/dist
+END
+startManager.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/trunk/Tools/AE-Manager/dist/startManager.bat
+END
+startManager.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/Tools/AE-Manager/dist/startManager.sh
+END

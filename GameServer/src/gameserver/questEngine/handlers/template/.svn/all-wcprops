@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/225/trunk/GameServer/src/gameserver/questEngine/handlers/template
+END
+ReportTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/225/trunk/GameServer/src/gameserver/questEngine/handlers/template/ReportTo.java
+END
+WorkOrders.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/template/WorkOrders.java
+END
+ItemCollecting.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/225/trunk/GameServer/src/gameserver/questEngine/handlers/template/ItemCollecting.java
+END
+XmlQuest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/template/XmlQuest.java
+END
+MonsterHunt.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/225/trunk/GameServer/src/gameserver/questEngine/handlers/template/MonsterHunt.java
+END

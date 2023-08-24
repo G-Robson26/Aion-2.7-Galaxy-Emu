@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/263/trunk/GameServer/src/gameserver/controllers
+END
+MonsterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/160/trunk/GameServer/src/gameserver/controllers/MonsterController.java
+END
+AethericFieldController.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/AethericFieldController.java
+END
+FlyController.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/FlyController.java
+END
+PlayerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/242/trunk/GameServer/src/gameserver/controllers/PlayerController.java
+END
+GroupGateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/GroupGateController.java
+END
+ReviveType.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/ReviveType.java
+END
+PostboxController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/PostboxController.java
+END
+ReviveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/101/trunk/GameServer/src/gameserver/controllers/ReviveController.java
+END
+PortalController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/controllers/PortalController.java
+END
+KiskController.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/KiskController.java
+END
+FloodController.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/143/trunk/GameServer/src/gameserver/controllers/FloodController.java
+END
+FortressGeneralController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/FortressGeneralController.java
+END
+MoveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/254/trunk/GameServer/src/gameserver/controllers/MoveController.java
+END
+CreatureController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/254/trunk/GameServer/src/gameserver/controllers/CreatureController.java
+END
+FlyRingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/FlyRingController.java
+END
+ServantController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/ServantController.java
+END
+RoadController.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/75/trunk/GameServer/src/gameserver/controllers/RoadController.java
+END
+FortressGateArtifactController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/FortressGateArtifactController.java
+END
+RestrictedPortalController.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/53/trunk/GameServer/src/gameserver/controllers/RestrictedPortalController.java
+END
+ActionitemController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/ActionitemController.java
+END
+NpcWithCreatorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/controllers/NpcWithCreatorController.java
+END
+ArtifactController.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/ArtifactController.java
+END
+GatherableController.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/GatherableController.java
+END
+ArtifactProtectorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/ArtifactProtectorController.java
+END
+RiftController.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/158/trunk/GameServer/src/gameserver/controllers/RiftController.java
+END
+ObserveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/ObserveController.java
+END
+ChestController.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/66/trunk/GameServer/src/gameserver/controllers/ChestController.java
+END
+ShieldController.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/43/trunk/GameServer/src/gameserver/controllers/ShieldController.java
+END
+FortressGateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/FortressGateController.java
+END
+InstancesDoorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/147/trunk/GameServer/src/gameserver/controllers/InstancesDoorController.java
+END
+StaticObjectController.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/StaticObjectController.java
+END
+SummonController.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/SummonController.java
+END
+NpcController.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/222/trunk/GameServer/src/gameserver/controllers/NpcController.java
+END
+HomingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/controllers/HomingController.java
+END
+VisibleObjectController.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/VisibleObjectController.java
+END
+BindpointController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/BindpointController.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/252/trunk/GameServer/src/gameserver/taskmanager/tasks
+END
+PacketBroadcaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/taskmanager/tasks/PacketBroadcaster.java
+END
+GroupUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/taskmanager/tasks/GroupUpdater.java
+END
+RestartTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/252/trunk/GameServer/src/gameserver/taskmanager/tasks/RestartTask.java
+END

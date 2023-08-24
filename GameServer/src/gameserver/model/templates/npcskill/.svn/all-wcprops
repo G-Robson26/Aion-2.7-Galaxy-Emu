@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/model/templates/npcskill
+END
+NpcUniqueSkillTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/model/templates/npcskill/NpcUniqueSkillTemplate.java
+END
+NpcSkillTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/model/templates/npcskill/NpcSkillTemplate.java
+END
+NpcSkillList.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/model/templates/npcskill/NpcSkillList.java
+END

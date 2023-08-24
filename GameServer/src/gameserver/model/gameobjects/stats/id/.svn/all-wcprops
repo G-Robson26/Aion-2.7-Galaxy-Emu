@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/id
+END
+FusionStatEffectId.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/id/FusionStatEffectId.java
+END
+StoneStatEffectId.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/id/StoneStatEffectId.java
+END
+ItemSetStatEffectId.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/id/ItemSetStatEffectId.java
+END
+ItemStatEffectId.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/id/ItemStatEffectId.java
+END
+StatEffectId.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/id/StatEffectId.java
+END
+EnchantStatEffectId.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/id/EnchantStatEffectId.java
+END
+SkillEffectId.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/id/SkillEffectId.java
+END

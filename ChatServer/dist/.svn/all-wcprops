@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/146/trunk/ChatServer/dist
+END
+startChat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/trunk/ChatServer/dist/startChat.sh
+END
+chat_loop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/trunk/ChatServer/dist/chat_loop.sh
+END
+startChat.bat
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/146/trunk/ChatServer/dist/startChat.bat
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/Commons/src/com/aionemu/commons/log4j/filters
+END
+ItemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/Commons/src/com/aionemu/commons/log4j/filters/ItemFilter.java
+END
+ChatLogFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/Commons/src/com/aionemu/commons/log4j/filters/ChatLogFilter.java
+END
+ConsoleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/Commons/src/com/aionemu/commons/log4j/filters/ConsoleFilter.java
+END
+AuditFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/Commons/src/com/aionemu/commons/log4j/filters/AuditFilter.java
+END
+PacketFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/Commons/src/com/aionemu/commons/log4j/filters/PacketFilter.java
+END
+ThrowablePresentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/Commons/src/com/aionemu/commons/log4j/filters/ThrowablePresentFilter.java
+END
+GmAuditFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/Commons/src/com/aionemu/commons/log4j/filters/GmAuditFilter.java
+END

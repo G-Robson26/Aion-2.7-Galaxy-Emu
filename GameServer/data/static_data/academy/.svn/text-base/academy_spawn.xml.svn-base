@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="utf-8"?>
+<academy_spawns>
+	<stage id="1">
+		<round id="1" time="180">
+			<academy_spawn map="300300000" npcid="217489" pool="1" race="ASMODIANS">
+				<aloc x="327.13104" y="354.03857" z="96.09091" h="115" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217486" pool="1" race="ASMODIANS">
+				<aloc x="327.85434" y="344.1159" z="96.09091" h="5" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217480" pool="1" race="ELYOS">
+				<aloc x="327.13104" y="354.03857" z="96.09091" h="115" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217477" pool="1" race="ELYOS">
+				<aloc x="327.85434" y="344.1159" z="96.09091" h="5" />
+			</academy_spawn>
+		</round>
+		<round id="2" time="240">
+			<academy_spawn map="300300000" npcid="217492" pool="1" race="ASMODIANS">
+				<aloc x="330.8284" y="363.82468" z="96.090904" h="104" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217483" pool="1" race="ELYOS">
+				<aloc x="330.8284" y="363.82468" z="96.090904" h="104" />
+			</academy_spawn>
+		</round>
+		<round id="3" time="240">
+			<academy_spawn map="300300000" npcid="217487" pool="1" race="ASMODIANS">
+				<aloc x="329.56372" y="336.00876" z="96.09091" h="13" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217478" pool="1" race="ELYOS">
+				<aloc x="329.56372" y="336.00876" z="96.09091" h="13" />
+			</academy_spawn>
+		</round>
+		<round id="4" time="240">
+			<academy_spawn map="300300000" npcid="217491" pool="1" race="ASMODIANS">
+				<aloc x="342.63025" y="365.58603" z="96.09092" h="92" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217482" pool="1" race="ELYOS">
+				<aloc x="342.63025" y="365.58603" z="96.09092" h="92" />
+			</academy_spawn>
+		</round>
+		<round id="5" time="300">
+			<academy_spawn map="300300000" npcid="217493" pool="1" race="ASMODIANS">
+				<aloc x="326.10266" y="349.47244" z="96.09091" h="0" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217484" pool="1" race="ELYOS">
+				<aloc x="326.10266" y="349.47244" z="96.09091" h="0" />
+			</academy_spawn>
+		</round>
+	</stage>
+	<stage id="2">
+		<round id="1" time="180">
+			<academy_spawn map="300300000" npcid="217495" pool="1" race="ASMODIANS">
+				<aloc x="327.55466" y="349.34262" z="96.09092" h="119" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217494" pool="1" race="ASMODIANS">
+				<aloc x="327.59012" y="346.4212" z="96.09091" h="119" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217496" pool="1" race="ASMODIANS">
+				<aloc x="327.6135" y="352.56876" z="96.09091" h="119" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217495" pool="1" race="ELYOS">
+				<aloc x="327.55466" y="349.34262" z="96.09092" h="119" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217494" pool="1" race="ELYOS">
+				<aloc x="327.59012" y="346.4212" z="96.09091" h="119" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217496" pool="1" race="ELYOS">
+				<aloc x="327.6135" y="352.56876" z="96.09091" h="119" />
+			</academy_spawn>
+		</round>
+		<round id="2" time="300">
+			<academy_spawn map="300300000" npcid="217497" pool="1" race="ASMODIANS">
+				<aloc x="328.2396" y="342.98752" z="96.090901" h="6" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217499" pool="1" race="ASMODIANS">
+				<aloc x="327.76868" y="355.46524" z="96.090901" h="117" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217495" pool="1" race="ASMODIANS">
+				<aloc x="328.26886" y="346.7696" z="96.090902" h="1" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217496" pool="1" race="ASMODIANS">
+				<aloc x="327.83865" y="351.4026" z="96.090902" h="0" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217497" pool="1" race="ELYOS">
+				<aloc x="328.2396" y="342.98752" z="96.090901" h="6" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217499" pool="1" race="ELYOS">
+				<aloc x="327.76868" y="355.46524" z="96.090901" h="117" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217495" pool="1" race="ELYOS">
+				<aloc x="328.26886" y="346.7696" z="96.090902" h="1" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217496" pool="1" race="ELYOS">
+				<aloc x="327.83865" y="351.4026" z="96.090902" h="0" />
+			</academy_spawn>
+		</round>
+		<round id="3" time="240">
+			<academy_spawn map="300300000" npcid="217500" pool="1" race="ASMODIANS">
+				<aloc x="332.95886" y="349.20874" z="96.090935" h="1" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217500" pool="1" race="ELYOS">
+				<aloc x="332.95886" y="349.20874" z="96.090935" h="1" />
+			</academy_spawn>
+		</round>
+		<round id="4" time="600">
+			<academy_spawn map="300300000" npcid="217497" pool="1" race="ASMODIANS">
+				<aloc x="343.5551" y="332.86755" z="96.09092" h="32" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217499" pool="1" race="ASMODIANS">
+				<aloc x="349.22488" y="333.35742" z="96.09093" h="31" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217498" pool="1" race="ASMODIANS">
+				<aloc x="329.35037" y="345.969" z="96.09092" h="4" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217498" pool="1" race="ASMODIANS">
+				<aloc x="336.148" y="364.70847" z="96.09091" h="101" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217499" pool="1" race="ASMODIANS">
+				<aloc x="340.84332" y="366.56717" z="96.09091" h="102" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217497" pool="1" race="ELYOS">
+				<aloc x="343.5551" y="332.86755" z="96.09092" h="32" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217499" pool="1" race="ELYOS">
+				<aloc x="349.22488" y="333.35742" z="96.09093" h="31" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217498" pool="1" race="ELYOS">
+				<aloc x="329.35037" y="345.969" z="96.09092" h="4" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217498" pool="1" race="ELYOS">
+				<aloc x="336.148" y="364.70847" z="96.09091" h="101" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217499" pool="1" race="ELYOS">
+				<aloc x="340.84332" y="366.56717" z="96.09091" h="102" />
+			</academy_spawn>
+		</round>
+		<round id="5" time="1200">
+			<academy_spawn map="300300000" npcid="217501" pool="1" race="ASMODIANS">
+				<aloc x="329.63177" y="349.3384" z="96.09091" h="0" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217501" pool="1" race="ELYOS">
+				<aloc x="329.63177" y="349.3384" z="96.09091" h="0" />
+			</academy_spawn>
+		</round>
+	</stage>
+	<stage id="3">
+		<round id="1" time="300">
+			<academy_spawn map="300300000" npcid="217512" pool="8" race="ASMODIANS">
+				<aloc x="336.0122" y="349.35104" z="96.09094" h="0" />
+				<aloc x="346.48343" y="359.41138" z="96.09094" h="90" />
+				<aloc x="356.21973" y="353.06567" z="96.09097" h="65" />
+				<aloc x="350.7533" y="343.55347" z="96.09096" h="45" />
+				<aloc x="346.2475" y="340.7508" z="96.09095" h="44" />
+				<aloc x="338.6473" y="349.14005" z="96.09095" h="3" />
+				<aloc x="343.175" y="358.30725" z="96.09094" h="98" />
+				<aloc x="351.84875" y="356.51035" z="96.09095" h="75" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217511" pool="4" race="ASMODIANS">
+				<aloc x="353.71384" y="358.92075" z="96.09095" h="77" />
+				<aloc x="339.93277" y="341.60547" z="96.09094" h="17" />
+				<aloc x="357.18735" y="346.24957" z="96.09107" h="53" />
+				<aloc x="337.9428" y="360.68" z="96.09093" h="98" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217513" pool="4" race="ASMODIANS">
+				<aloc x="334.00482" y="335.46" z="96.090935" h="112" />
+				<aloc x="357.982" y="345.41522" z="96.09109" h="49" />
+				<aloc x="334.30945" y="337.44394" z="96.090935" h="28" />
+				<aloc x="333.60114" y="352.41238" z="96.090935" h="115" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217514" pool="8" race="ASMODIANS">
+				<aloc x="326.69318" y="346.94016" z="96.09091" h="1" />
+				<aloc x="365.1172" y="348.86407" z="96.09114" h="60" />
+				<aloc x="348.66046" y="367.69885" z="96.09091" h="84" />
+				<aloc x="346.33234" y="333.12524" z="96.09093" h="31" />
+				<aloc x="333.34018" y="337.48416" z="96.09092" h="19" />
+				<aloc x="348.2907" y="366.668" z="96.09092" h="87" />
+				<aloc x="362.22653" y="337.81042" z="96.09114" h="47" />
+				<aloc x="327.072" y="356.9564" z="96.09091" h="110" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217512" pool="8" race="ELYOS">
+				<aloc x="336.0122" y="349.35104" z="96.09094" h="0" />
+				<aloc x="346.48343" y="359.41138" z="96.09094" h="90" />
+				<aloc x="356.21973" y="353.06567" z="96.09097" h="65" />
+				<aloc x="350.7533" y="343.55347" z="96.09096" h="45" />
+				<aloc x="346.2475" y="340.7508" z="96.09095" h="44" />
+				<aloc x="338.6473" y="349.14005" z="96.09095" h="3" />
+				<aloc x="343.175" y="358.30725" z="96.09094" h="98" />
+				<aloc x="351.84875" y="356.51035" z="96.09095" h="75" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217511" pool="4" race="ELYOS">
+				<aloc x="353.71384" y="358.92075" z="96.09095" h="77" />
+				<aloc x="339.93277" y="341.60547" z="96.09094" h="17" />
+				<aloc x="357.18735" y="346.24957" z="96.09107" h="53" />
+				<aloc x="337.9428" y="360.68" z="96.09093" h="98" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217513" pool="4" race="ELYOS">
+				<aloc x="334.00482" y="335.46" z="96.090935" h="112" />
+				<aloc x="357.982" y="345.41522" z="96.09109" h="49" />
+				<aloc x="334.30945" y="337.44394" z="96.090935" h="28" />
+				<aloc x="333.60114" y="352.41238" z="96.090935" h="115" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217514" pool="8" race="ELYOS">
+				<aloc x="326.69318" y="346.94016" z="96.09091" h="1" />
+				<aloc x="365.1172" y="348.86407" z="96.09114" h="60" />
+				<aloc x="348.66046" y="367.69885" z="96.09091" h="84" />
+				<aloc x="346.33234" y="333.12524" z="96.09093" h="31" />
+				<aloc x="333.34018" y="337.48416" z="96.09092" h="19" />
+				<aloc x="348.2907" y="366.668" z="96.09092" h="87" />
+				<aloc x="362.22653" y="337.81042" z="96.09114" h="47" />
+				<aloc x="327.072" y="356.9564" z="96.09091" h="110" />
+			</academy_spawn>
+		</round>
+		<round id="2" time="600">
+			<academy_spawn map="300300000" npcid="217515" pool="4" race="ASMODIANS">
+				<aloc x="331.93066" y="355.17636" z="96.09093" h="113" />
+				<aloc x="353.50305" y="347.6597" z="96.0909104" h="48" />
+				<aloc x="337.973" y="341.56308" z="96.090935" h="15" />
+				<aloc x="339.79196" y="355.10583" z="96.09094" h="105" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217516" pool="4" race="ASMODIANS">
+				<aloc x="354.2303" y="351.21548" z="96.09105" h="60" />
+				<aloc x="334.1068" y="349.3669" z="96.090935" h="0" />
+				<aloc x="345.0233" y="357.0487" z="96.09095" h="89" />
+				<aloc x="346.3025" y="340.2631" z="96.09094" h="29" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217517" pool="4" race="ASMODIANS">
+				<aloc x="354.79248" y="335.92194" z="96.09093" h="43" />
+				<aloc x="354.79248" y="335.92194" z="96.09093" h="43" />
+				<aloc x="337.44147" y="352.70755" z="96.09094" h="112" />
+				<aloc x="353.9201" y="357.90503" z="96.09097" h="79" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217518" pool="4" race="ASMODIANS">
+				<aloc x="349.60834" y="332.59262" z="96.090902" h="35" />
+				<aloc x="336.6258" y="365.01633" z="96.090901" h="102" />
+				<aloc x="366.15863" y="356.15863" z="96.09116" h="65" />
+				<aloc x="331.2035" y="340.4006" z="96.09092" h="12" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217515" pool="4" race="ELYOS">
+				<aloc x="331.93066" y="355.17636" z="96.09093" h="113" />
+				<aloc x="353.50305" y="347.6597" z="96.0909104" h="48" />
+				<aloc x="337.973" y="341.56308" z="96.090935" h="15" />
+				<aloc x="339.79196" y="355.10583" z="96.09094" h="105" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217516" pool="4" race="ELYOS">
+				<aloc x="354.2303" y="351.21548" z="96.09105" h="60" />
+				<aloc x="334.1068" y="349.3669" z="96.090935" h="0" />
+				<aloc x="345.0233" y="357.0487" z="96.09095" h="89" />
+				<aloc x="346.3025" y="340.2631" z="96.09094" h="29" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217517" pool="4" race="ELYOS">
+				<aloc x="354.79248" y="335.92194" z="96.09093" h="43" />
+				<aloc x="354.79248" y="335.92194" z="96.09093" h="43" />
+				<aloc x="337.44147" y="352.70755" z="96.09094" h="112" />
+				<aloc x="353.9201" y="357.90503" z="96.09097" h="79" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217518" pool="4" race="ELYOS">
+				<aloc x="349.60834" y="332.59262" z="96.090902" h="35" />
+				<aloc x="336.6258" y="365.01633" z="96.090901" h="102" />
+				<aloc x="366.15863" y="356.15863" z="96.09116" h="65" />
+				<aloc x="331.2035" y="340.4006" z="96.09092" h="12" />
+			</academy_spawn>
+		</round>
+		<round id="3" time="600">
+			<academy_spawn map="300300000" npcid="217519" pool="2" race="ASMODIANS">
+				<aloc x="335.63913" y="340.7725" z="96.090935" h="9" />
+				<aloc x="342.4849" y="361.80875" z="96.09093" h="89" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217520" pool="2" race="ASMODIANS">
+				<aloc x="349.25653" y="351.38095" z="96.090996" h="68" />
+				<aloc x="332.2443" y="355.8755" z="96.09093" h="107" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217521" pool="2" race="ASMODIANS">
+				<aloc x="344.46225" y="339.52792" z="96.09094" h="26" />
+				<aloc x="353.45837" y="342.8435" z="96.090101" h="38" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217522" pool="2" race="ASMODIANS">
+				<aloc x="349.25638" y="356.26367" z="96.09095" h="75" />
+				<aloc x="355.82578" y="358.45316" z="96.09102" h="71" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217519" pool="2" race="ELYOS">
+				<aloc x="335.63913" y="340.7725" z="96.090935" h="9" />
+				<aloc x="342.4849" y="361.80875" z="96.09093" h="89" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217520" pool="2" race="ELYOS">
+				<aloc x="349.25653" y="351.38095" z="96.090996" h="68" />
+				<aloc x="332.2443" y="355.8755" z="96.09093" h="107" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217521" pool="2" race="ELYOS">
+				<aloc x="344.46225" y="339.52792" z="96.09094" h="26" />
+				<aloc x="353.45837" y="342.8435" z="96.090101" h="38" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217522" pool="2" race="ELYOS">
+				<aloc x="349.25638" y="356.26367" z="96.09095" h="75" />
+				<aloc x="355.82578" y="358.45316" z="96.09102" h="71" />
+			</academy_spawn>
+		</round>
+		<round id="4" time="360">
+			<academy_spawn map="300300000" npcid="217523" pool="1" race="ASMODIANS">
+				<aloc x="353.8943" y="357.0361" z="96.090996" h="72" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217524" pool="1" race="ASMODIANS">
+				<aloc x="339.42294" y="344.91138" z="96.09095" h="7" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217525" pool="1" race="ASMODIANS">
+				<aloc x="345.7659" y="359.2407" z="96.09094" h="83" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217526" pool="1" race="ASMODIANS">
+				<aloc x="342.31052" y="342.4771" z="96.09095" h="14" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217523" pool="1" race="ELYOS">
+				<aloc x="353.8943" y="357.0361" z="96.090996" h="72" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217524" pool="1" race="ELYOS">
+				<aloc x="339.42294" y="344.91138" z="96.09095" h="7" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217525" pool="1" race="ELYOS">
+				<aloc x="345.7659" y="359.2407" z="96.09094" h="83" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217526" pool="1" race="ELYOS">
+				<aloc x="342.31052" y="342.4771" z="96.09095" h="14" />
+			</academy_spawn>
+		</round>
+		<round id="5" time="1200">
+			<academy_spawn map="300300000" npcid="217527" pool="1" race="ASMODIANS">
+				<aloc x="329.94305" y="343.2198" z="96.09092" h="4" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217528" pool="1" race="ASMODIANS">
+				<aloc x="329.52048" y="351.18817" z="96.09092" h="117" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217527" pool="1" race="ELYOS">
+				<aloc x="329.94305" y="343.2198" z="96.09092" h="4" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217528" pool="1" race="ELYOS">
+				<aloc x="329.52048" y="351.18817" z="96.09092" h="117" />
+			</academy_spawn>
+		</round>
+	</stage>
+	<stage id="4">
+		<round id="1" time="240">
+			<academy_spawn map="300300000" npcid="217557" pool="2" race="ASMODIANS">
+				<aloc x="335.84836" y="330.28558" z="96.090904" h="21" />
+				<aloc x="343.80743" y="327.2789" z="96.090904" h="24" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217559" pool="1" race="ASMODIANS">
+				<aloc x="339.4116" y="332.23715" z="96.09092" h="22" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217558" pool="2" race="ASMODIANS">
+				<aloc x="353.5433" y="332.10434" z="96.09092" h="41" />
+				<aloc x="333.44568" y="335.77588" z="96.09092" h="14" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217557" pool="2" race="ELYOS">
+				<aloc x="335.84836" y="330.28558" z="96.090904" h="21" />
+				<aloc x="343.80743" y="327.2789" z="96.090904" h="24" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217559" pool="1" race="ELYOS">
+				<aloc x="339.4116" y="332.23715" z="96.09092" h="22" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217558" pool="2" race="ELYOS">
+				<aloc x="353.5433" y="332.10434" z="96.09092" h="41" />
+				<aloc x="333.44568" y="335.77588" z="96.09092" h="14" />
+			</academy_spawn>
+		</round>
+		<round id="2" time="240">
+			<academy_spawn map="300300000" npcid="217559" pool="1" race="ASMODIANS">
+				<aloc x="327.89484" y="349.01413" z="96.09092" h="1" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217560" pool="1" race="ASMODIANS">
+				<aloc x="329.13434" y="341.9754" z="96.09092" h="10" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217562" pool="1" race="ASMODIANS">
+				<aloc x="328.79504" y="356.03564" z="96.09092" h="114" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217558" pool="1" race="ASMODIANS">
+				<aloc x="362.96268" y="356.0641" z="96.09113" h="70" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217561" pool="1" race="ASMODIANS">
+				<aloc x="363.40128" y="342.24203" z="96.09113" h="52" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217559" pool="1" race="ELYOS">
+				<aloc x="327.89484" y="349.01413" z="96.09092" h="1" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217560" pool="1" race="ELYOS">
+				<aloc x="329.13434" y="341.9754" z="96.09092" h="10" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217562" pool="1" race="ELYOS">
+				<aloc x="328.79504" y="356.03564" z="96.09092" h="114" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217558" pool="1" race="ELYOS">
+				<aloc x="362.96268" y="356.0641" z="96.09113" h="70" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217561" pool="1" race="ELYOS">
+				<aloc x="363.40128" y="342.24203" z="96.09113" h="52" />
+			</academy_spawn>
+		</round>
+		<round id="3" time="300">
+			<academy_spawn map="300300000" npcid="217563" pool="2" race="ASMODIANS">
+				<aloc x="349.81302" y="331.13022" z="96.09092" h="36" />
+				<aloc x="355.32565" y="363.51736" z="96.09092" h="77" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217564" pool="1" race="ASMODIANS">
+				<aloc x="342.82944" y="331.77844" z="96.09092" h="34" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217565" pool="1" race="ASMODIANS">
+				<aloc x="336.7507" y="335.0489" z="96.09092" h="16" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217566" pool="1" race="ASMODIANS">
+				<aloc x="360.884" y="358.58737" z="96.09113" h="69" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217563" pool="2" race="ELYOS">
+				<aloc x="349.81302" y="331.13022" z="96.09092" h="36" />
+				<aloc x="355.32565" y="363.51736" z="96.09092" h="77" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217564" pool="1" race="ELYOS">
+				<aloc x="342.82944" y="331.77844" z="96.09092" h="34" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217565" pool="1" race="ELYOS">
+				<aloc x="336.7507" y="335.0489" z="96.09092" h="16" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217566" pool="1" race="ELYOS">
+				<aloc x="360.884" y="358.58737" z="96.09113" h="69" />
+			</academy_spawn>
+		</round>
+		<round id="4" time="480">
+			<academy_spawn map="300300000" npcid="217567" pool="1" race="ASMODIANS">
+				<aloc x="346.2656" y="349.06842" z="96.09097" h="58" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217567" pool="1" race="ELYOS">
+				<aloc x="346.2656" y="349.06842" z="96.09097" h="58" />
+			</academy_spawn>
+		</round>
+		<round id="5" time="600">
+			<academy_spawn map="300300000" npcid="217565" pool="1" race="ASMODIANS">
+				<aloc x="329.54944" y="349.21786" z="96.09092" h="0" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217563" pool="2" race="ASMODIANS">
+				<aloc x="363.13388" y="349.0107" z="96.091125" h="61" />
+				<aloc x="333.75162" y="336.35547" z="96.09092" h="15" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217564" pool="2" race="ASMODIANS">
+				<aloc x="361.16794" y="339.0904" z="96.09113" h="49" />
+				<aloc x="339.2202" y="366.08453" z="96.090991" h="93" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217565" pool="1" race="ASMODIANS">
+				<aloc x="358.2833" y="362.31653" z="96.090996" h="76" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217565" pool="1" race="ELYOS">
+				<aloc x="329.54944" y="349.21786" z="96.09092" h="0" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217563" pool="2" race="ELYOS">
+				<aloc x="363.13388" y="349.0107" z="96.091125" h="61" />
+				<aloc x="333.75162" y="336.35547" z="96.09092" h="15" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217564" pool="2" race="ELYOS">
+				<aloc x="361.16794" y="339.0904" z="96.09113" h="49" />
+				<aloc x="339.2202" y="366.08453" z="96.090991" h="93" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217565" pool="1" race="ELYOS">
+				<aloc x="358.2833" y="362.31653" z="96.090996" h="76" />
+			</academy_spawn>
+		</round>
+	</stage>
+	<stage id="5">
+		<round id="1" time="300">
+			<academy_spawn map="300300000" npcid="217529" pool="5" race="ASMODIANS">
+				<aloc x="1260.063" y="776.8558" z="358.7" h="29" />
+				<aloc x="1265.8486" y="777.2706" z="358.7" h="37" />
+				<aloc x="1254.5087" y="777.05115" z="358.7" h="25" />
+				<aloc x="1249.043" y="779.04333" z="358.7" h="23" />
+				<aloc x="1259.8413" y="782.37756" z="358.7" h="31" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217529" pool="5" race="ELYOS">
+				<aloc x="1260.063" y="776.8558" z="358.7" h="29" />
+				<aloc x="1265.8486" y="777.2706" z="358.7" h="37" />
+				<aloc x="1254.5087" y="777.05115" z="358.7" h="25" />
+				<aloc x="1249.043" y="779.04333" z="358.7" h="23" />
+				<aloc x="1259.8413" y="782.37756" z="358.7" h="31" />
+			</academy_spawn>
+		</round>
+		<round id="2" time="900">
+			<academy_spawn map="300300000" npcid="217530" pool="2" race="ASMODIANS">
+				<aloc x="1251.6552" y="785.85254" z="358.7" h="18" />
+				<aloc x="1268.1614" y="785.82983" z="358.7" h="43" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217535" pool="1" race="ASMODIANS">
+				<aloc x="1246.5774" y="778.77496" z="358.7" h="16" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217531" pool="1" race="ASMODIANS">
+				<aloc x="1272.9283" y="779.12445" z="358.7" h="43" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217536" pool="1" race="ASMODIANS">
+				<aloc x="1260.0875" y="775.6155" z="358.7" h="30" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217530" pool="2" race="ELYOS">
+				<aloc x="1251.6552" y="785.85254" z="358.7" h="18" />
+				<aloc x="1268.1614" y="785.82983" z="358.7" h="43" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217535" pool="1" race="ELYOS">
+				<aloc x="1246.5774" y="778.77496" z="358.7" h="16" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217531" pool="1" race="ELYOS">
+				<aloc x="1272.9283" y="779.12445" z="358.7" h="43" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217536" pool="1" race="ELYOS">
+				<aloc x="1260.0875" y="775.6155" z="358.7" h="30" />
+			</academy_spawn>
+		</round>
+		<round id="3" time="600">
+			<academy_spawn map="300300000" npcid="217543" pool="1" race="ASMODIANS">
+				<aloc x="1260.1832" y="807.11884" z="358.7" h="89" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217543" pool="1" race="ELYOS">
+				<aloc x="1260.1832" y="807.11884" z="358.7" h="89" />
+			</academy_spawn>
+		</round>
+		<round id="4" time="1500">
+			<academy_spawn map="300300000" npcid="217535" pool="1" race="ASMODIANS">
+				<aloc x="1278.1963" y="797.157784" z="358.7" h="59" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217534" pool="1" race="ASMODIANS">
+				<aloc x="1242.6372" y="797.5341" z="358.7" h="119" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217533" pool="1" race="ASMODIANS">
+				<aloc x="1259.8661" y="782.22314" z="358.7" h="31" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217536" pool="1" race="ASMODIANS">
+				<aloc x="1260.1427" y="811.72577" z="358.7" h="86" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217532" pool="1" race="ASMODIANS">
+				<aloc x="1260.0685" y="797.8726" z="358.7" h="90" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217535" pool="1" race="ELYOS">
+				<aloc x="1278.1963" y="797.157784" z="358.7" h="59" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217534" pool="1" race="ELYOS">
+				<aloc x="1242.6372" y="797.5341" z="358.7" h="119" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217533" pool="1" race="ELYOS">
+				<aloc x="1259.8661" y="782.22314" z="358.7" h="31" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217536" pool="1" race="ELYOS">
+				<aloc x="1260.1427" y="811.72577" z="358.7" h="86" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217532" pool="1" race="ELYOS">
+				<aloc x="1260.0685" y="797.8726" z="358.7" h="90" />
+			</academy_spawn>
+		</round>
+		<round id="5" time="1800">
+			<academy_spawn map="300300000" npcid="217544" pool="1" race="ASMODIANS">
+				<aloc x="1268.8789" y="797.24646" z="358.7" h="59" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217534" pool="1" race="ASMODIANS">
+				<aloc x="1250.2256" y="797.347" z="358.7" h="0" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217533" pool="1" race="ASMODIANS">
+				<aloc x="1259.8398" y="807.3122" z="358.7" h="90" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217544" pool="1" race="ELYOS">
+				<aloc x="1268.8789" y="797.24646" z="358.7" h="59" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217534" pool="1" race="ELYOS">
+				<aloc x="1250.2256" y="797.347" z="358.7" h="0" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217533" pool="1" race="ELYOS">
+				<aloc x="1259.8398" y="807.3122" z="358.7" h="90" />
+			</academy_spawn>
+		</round>
+	</stage>
+	<stage id="6">
+		<round id="1" time="480">
+			<academy_spawn map="300300000" npcid="217568" pool="1" race="ASMODIANS">
+				<aloc x="1636.72" y="168.45184" z="126" h="77" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217568" pool="1" race="ASMODIANS">
+				<aloc x="1645.9632" y="147.06992" z="126" h="48" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217568" pool="1" race="ASMODIANS">
+				<aloc x="1617.6462" y="141.62347" z="126" h="17" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217568" pool="1" race="ASMODIANS">
+				<aloc x="1612.9122" y="155.7964" z="126" h="114" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217568" pool="1" race="ELYOS">
+				<aloc x="1636.72" y="168.45184" z="126" h="77" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217568" pool="1" race="ELYOS">
+				<aloc x="1645.9632" y="147.06992" z="126" h="48" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217568" pool="1" race="ELYOS">
+				<aloc x="1617.6462" y="141.62347" z="126" h="17" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217568" pool="1" race="ELYOS">
+				<aloc x="1612.9122" y="155.7964" z="126" h="114" />
+			</academy_spawn>
+		</round>
+		<round id="2" time="600">
+			<academy_spawn map="300300000" npcid="217569" pool="1" race="ASMODIANS">
+				<aloc x="1635.413" y="167.95143" z="126" h="83" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217569" pool="1" race="ASMODIANS">
+				<aloc x="1626.7273" y="172.63727" z="126" h="89" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217569" pool="1" race="ASMODIANS">
+				<aloc x="1633.3876" y="141.6998" z="126" h="37" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217569" pool="1" race="ASMODIANS">
+				<aloc x="1618.8973" y="139.99051" z="126" h="26" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217570" pool="1" race="ASMODIANS">
+				<aloc x="1627.4543" y="150.4915" z="126" h="32" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217569" pool="1" race="ELYOS">
+				<aloc x="1635.413" y="167.95143" z="126" h="83" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217569" pool="1" race="ELYOS">
+				<aloc x="1626.7273" y="172.63727" z="126" h="89" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217569" pool="1" race="ELYOS">
+				<aloc x="1633.3876" y="141.6998" z="126" h="37" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217569" pool="1" race="ELYOS">
+				<aloc x="1618.8973" y="139.99051" z="126" h="26" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217570" pool="1" race="ELYOS">
+				<aloc x="1627.4543" y="150.4915" z="126" h="32" />
+			</academy_spawn>
+		</round>
+		<round id="3" time="420">
+			<academy_spawn map="300300000" npcid="217569" pool="1" race="ASMODIANS">
+				<aloc x="1628.4387" y="137.10406" z="126" h="32" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217569" pool="1" race="ASMODIANS">
+				<aloc x="1638.197" y="137.37787" z="126" h="35" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217568" pool="1" race="ASMODIANS">
+				<aloc x="1646.0411" y="148.51141" z="126" h="47" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217568" pool="1" race="ASMODIANS">
+				<aloc x="1620.2454" y="143.03645" z="126" h="10" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217569" pool="1" race="ELYOS">
+				<aloc x="1628.4387" y="137.10406" z="126" h="32" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217569" pool="1" race="ELYOS">
+				<aloc x="1638.197" y="137.37787" z="126" h="35" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217568" pool="1" race="ELYOS">
+				<aloc x="1646.0411" y="148.51141" z="126" h="47" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217568" pool="1" race="ELYOS">
+				<aloc x="1620.2454" y="143.03645" z="126" h="10" />
+			</academy_spawn>
+		</round>
+		<round id="4" time="360">
+			<academy_spawn map="300300000" npcid="217572" pool="1" race="ASMODIANS">
+				<aloc x="1626.329" y="159.13014" z="126" h="86" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217572" pool="1" race="ELYOS">
+				<aloc x="1626.329" y="159.13014" z="126" h="86" />
+			</academy_spawn>
+		</round>
+		<round id="5" time="600">
+			<academy_spawn map="300300000" npcid="217573" pool="1" race="ASMODIANS">
+				<aloc x="1617.939" y="137.3695" z="126" h="19" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217573" pool="1" race="ELYOS">
+				<aloc x="1617.939" y="137.3695" z="126" h="19" />
+			</academy_spawn>
+		</round>
+	</stage>
+	<stage id="7">
+		<round id="1" time="360">
+			<academy_spawn map="300300000" npcid="217582" pool="1" race="ASMODIANS">
+				<aloc x="1786.4613" y="796.63873" z="469.35016" h="60" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217578" pool="1" race="ELYOS">
+				<aloc x="1786.4613" y="796.63873" z="469.35016" h="60" />
+			</academy_spawn>
+		</round>
+		<round id="2" time="360">
+			<academy_spawn map="300300000" npcid="217583" pool="1" race="ASMODIANS">
+				<aloc x="1778.8705" y="815.277" z="469.40714" h="95" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217579" pool="1" race="ELYOS">
+				<aloc x="1778.8705" y="815.277" z="469.40714" h="95" />
+			</academy_spawn>
+		</round>
+		<round id="3" time="480">
+			<academy_spawn map="300300000" npcid="217584" pool="1" race="ASMODIANS">
+				<aloc x="1785.9088" y="776.44025" z="469.5057" h="32" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217580" pool="1" race="ELYOS">
+				<aloc x="1785.9088" y="776.44025" z="469.5057" h="32" />
+			</academy_spawn>
+		</round>
+		<round id="4" time="480">
+			<academy_spawn map="300300000" npcid="217585" pool="1" race="ASMODIANS">
+				<aloc x="1800.9485" y="785.81647" z="469.3503" h="51" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217581" pool="1" race="ELYOS">
+				<aloc x="1800.9485" y="785.81647" z="469.3503" h="51" />
+			</academy_spawn>
+		</round>
+		<round id="5" time="600">
+			<academy_spawn map="300300000" npcid="217587" pool="1" race="ASMODIANS">
+				<aloc x="1771.4968" y="796.10504" z="469.3501" h="119" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217586" pool="1" race="ELYOS">
+				<aloc x="1771.4968" y="796.10504" z="469.3501" h="119" />
+			</academy_spawn>
+		</round>
+	</stage>
+	<stage id="8">
+		<round id="1" time="540">
+			<academy_spawn map="300300000" npcid="217589" pool="1" race="ASMODIANS">
+				<aloc x="1758.1841" y="1770.473" z="303.7" h="107" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217589" pool="1" race="ELYOS">
+				<aloc x="1758.1841" y="1770.473" z="303.7" h="107" />
+			</academy_spawn>
+		</round>
+		<round id="2" time="540">
+			<academy_spawn map="300300000" npcid="217590" pool="1" race="ASMODIANS">
+				<aloc x="1794.9225" y="1756.2131" z="304.1" h="55" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217590" pool="1" race="ELYOS">
+				<aloc x="1794.9225" y="1756.2131" z="304.1" h="55" />
+			</academy_spawn>
+		</round>
+		<round id="3" time="540">
+			<academy_spawn map="300300000" npcid="217591" pool="1" race="ASMODIANS">
+				<aloc x="1791.1407" y="1777.92" z="304.1" h="76" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217591" pool="1" race="ELYOS">
+				<aloc x="1791.1407" y="1777.92" z="304.1" h="76" />
+			</academy_spawn>
+		</round>
+		<round id="4" time="540">
+			<academy_spawn map="300300000" npcid="217592" pool="1" race="ASMODIANS">
+				<aloc x="1764.3282" y="1744.4377" z="304.1" h="18" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217592" pool="1" race="ELYOS">
+				<aloc x="1764.3282" y="1744.4377" z="304.1" h="18" />
+			</academy_spawn>
+		</round>
+		<round id="5" time="600">
+			<academy_spawn map="300300000" npcid="217593" pool="1" race="ASMODIANS">
+				<aloc x="1786.7078" y="1757.4915" z="303.8" h="49" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217593" pool="1" race="ELYOS">
+				<aloc x="1786.7078" y="1757.4915" z="303.8" h="49" />
+			</academy_spawn>
+		</round>
+	</stage>
+	<stage id="9">
+		<round id="1" time="600">
+			<academy_spawn map="300300000" npcid="217594" pool="1" race="ASMODIANS">
+				<aloc x="1282.5399" y="1755.8711" z="317.4" h="105" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217594" pool="1" race="ELYOS">
+				<aloc x="1282.5399" y="1755.8711" z="317.4" h="105" />
+			</academy_spawn>
+		</round>
+		<round id="2" time="600">
+			<academy_spawn map="300300000" npcid="217595" pool="1" race="ASMODIANS">
+				<aloc x="1328.4663" y="1711.2297" z="317.6" h="44" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217595" pool="1" race="ELYOS">
+				<aloc x="1328.4663" y="1711.2297" z="317.6" h="44" />
+			</academy_spawn>
+		</round>
+		<round id="3" time="900">
+			<academy_spawn map="300300000" npcid="217596" pool="1" race="ASMODIANS">									    
+				<aloc x="1317.1527" y="1754.2035" z="316.9" h="80" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217597" pool="1" race="ASMODIANS">						           
+				<aloc x="1294.7261" y="1721.1761" z="317.3" h="19" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217596" pool="1" race="ELYOS">
+				<aloc x="1317.1527" y="1754.2035" z="316.9" h="80" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217597" pool="1" race="ELYOS">
+				<aloc x="1294.7261" y="1721.1761" z="317.3" h="19" />
+			</academy_spawn>
+		</round>
+		<round id="4" time="540">
+			<academy_spawn map="300300000" npcid="217598" pool="1" race="ASMODIANS">
+				<aloc x="1311.5238" y="1755.2079" z="317.1" h="97" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217598" pool="1" race="ELYOS">
+				<aloc x="1311.5238" y="1755.2079" z="317.1" h="97" />
+			</academy_spawn>
+		</round>
+		<round id="5" time="600">
+			<academy_spawn map="300300000" npcid="217599" pool="1" race="ASMODIANS">
+				<aloc x="1304.2659" y="1722.2467" z="316.5" h="23" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217599" pool="1" race="ELYOS">
+				<aloc x="1304.2659" y="1722.2467" z="316.5" h="23" />
+			</academy_spawn>
+		</round>
+	</stage>
+	<stage id="10">
+		<round id="1" time="1200">
+			<academy_spawn map="300300000" npcid="217600" pool="3" race="ASMODIANS">
+				<aloc x="1771.213" y="1302.0781" z="394.3" h="82" />
+				<aloc x="1758.3969" y="1270.394" z="394.3" h="22" />
+				<aloc x="1745.7496" y="1288.4509" z="394.3" h="1" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217601" pool="2" race="ASMODIANS">
+				<aloc x="1774.4563" y="1302.1516" z="394.3" h="82" />
+				<aloc x="1755.4142" y="1271.3469" z="394.3" h="22" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217602" pool="2" race="ASMODIANS">
+				<aloc x="1765.1488" y="1305.1216" z="394.3" h="84" />
+				<aloc x="1763.1177" y="1268.2404" z="394.3" h="22" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217600" pool="3" race="ELYOS">
+				<aloc x="1771.213" y="1302.0781" z="394.3" h="82" />
+				<aloc x="1758.3969" y="1270.394" z="394.3" h="22" />
+				<aloc x="1745.7496" y="1288.4509" z="394.3" h="1" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217601" pool="2" race="ELYOS">
+				<aloc x="1774.4563" y="1302.1516" z="394.3" h="82" />
+				<aloc x="1755.4142" y="1271.3469" z="394.3" h="22" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217602" pool="2" race="ELYOS">
+				<aloc x="1765.1488" y="1305.1216" z="394.3" h="84" />
+				<aloc x="1763.1177" y="1268.2404" z="394.3" h="22" />
+			</academy_spawn>
+		</round>
+		<round id="2" time="1500">
+			<academy_spawn map="300300000" npcid="217603" pool="4" race="ASMODIANS">
+				<aloc x="1744.6332" y="1280.0349" z="394.3" h="9" />
+				<aloc x="1751.61" y="1301.0681" z="394.3" h="103" />
+				<aloc x="1780.8527" y="1276.3375" z="394.3" h="48" />
+				<aloc x="1785.5378" y="1293.8882" z="394.3" h="68" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217604" pool="2" race="ASMODIANS">
+				<aloc x="1744.7721" y="1288.3304" z="394.3" h="119" />
+				<aloc x="1756.2661" y="1305.561" z="394.3" h="97" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217605" pool="4" race="ASMODIANS">
+				<aloc x="1746.3641" y="1295.0437" z="394.3" h="112" />
+				<aloc x="1765.2681" y="1306.5621" z="394.3" h="89" />
+				<aloc x="1774.0984" y="1270.6729" z="394.3" h="43" />
+				<aloc x="1782.134" y="1299.552" z="394.3" h="72" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217606" pool="1" race="ASMODIANS">
+				<aloc x="1767.1664" y="1289.5667" z="394.3" h="67" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217603" pool="4" race="ELYOS">
+				<aloc x="1744.6332" y="1280.0349" z="394.3" h="9" />
+				<aloc x="1751.61" y="1301.0681" z="394.3" h="103" />
+				<aloc x="1780.8527" y="1276.3375" z="394.3" h="48" />
+				<aloc x="1785.5378" y="1293.8882" z="394.3" h="68" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217604" pool="2" race="ELYOS">
+				<aloc x="1744.7721" y="1288.3304" z="394.3" h="119" />
+				<aloc x="1756.2661" y="1305.561" z="394.3" h="97" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217605" pool="4" race="ELYOS">
+				<aloc x="1746.3641" y="1295.0437" z="394.3" h="112" />
+				<aloc x="1765.2681" y="1306.5621" z="394.3" h="89" />
+				<aloc x="1774.0984" y="1270.6729" z="394.3" h="43" />
+				<aloc x="1782.134" y="1299.552" z="394.3" h="72" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217606" pool="1" race="ELYOS">
+				<aloc x="1767.1664" y="1289.5667" z="394.3" h="67" />
+			</academy_spawn>
+		</round>
+		<round id="3" time="900">
+			<academy_spawn map="300300000" npcid="217607" pool="1" race="ASMODIANS">
+				<aloc x="1771.2675" y="1304.7964" z="394.3" h="82" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217607" pool="1" race="ELYOS">
+				<aloc x="1771.2675" y="1304.7964" z="394.3" h="82" />
+			</academy_spawn>
+		</round>
+		<round id="4" time="1200">
+			<academy_spawn map="300300000" npcid="217608" pool="1" race="ASMODIANS">
+				<aloc x="1754.8065" y="1303.702" z="394.3" h="100" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217608" pool="1" race="ELYOS">
+				<aloc x="1754.8065" y="1303.702" z="394.3" h="100" />
+			</academy_spawn>
+		</round>
+		<round id="5" time="1800">
+			<academy_spawn map="300300000" npcid="217609" pool="1" race="ASMODIANS">
+				<aloc x="1765.6692" y="1288.092" z="394.3" h="30" />
+			</academy_spawn>
+			<academy_spawn map="300300000" npcid="217609" pool="1" race="ELYOS">
+				<aloc x="1765.6692" y="1288.092" z="394.3" h="30" />
+			</academy_spawn>
+		</round>
+	</stage>
+</academy_spawns>

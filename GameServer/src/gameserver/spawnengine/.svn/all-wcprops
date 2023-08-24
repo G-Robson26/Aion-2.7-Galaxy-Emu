@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/spawnengine
+END
+SpawnEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/spawnengine/SpawnEngine.java
+END
+StaticObjectSpawnManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/spawnengine/StaticObjectSpawnManager.java
+END
+SpawnHandlerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/spawnengine/SpawnHandlerType.java
+END
+RiftSpawnManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/spawnengine/RiftSpawnManager.java
+END

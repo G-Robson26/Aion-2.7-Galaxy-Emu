@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/geometry
+END
+Point3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/geometry/Point3D.java
+END
+CylinderArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/geometry/CylinderArea.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/geometry/Area.java
+END
+AbstractArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/geometry/AbstractArea.java
+END
+PolyArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/geometry/PolyArea.java
+END
+RectangleArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/geometry/RectangleArea.java
+END

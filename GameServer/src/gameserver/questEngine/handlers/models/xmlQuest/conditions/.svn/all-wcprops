@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/conditions
+END
+QuestVarCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/conditions/QuestVarCondition.java
+END
+DialogIdCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/conditions/DialogIdCondition.java
+END
+NpcIdCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/conditions/NpcIdCondition.java
+END
+PcInventoryCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/conditions/PcInventoryCondition.java
+END
+QuestCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/conditions/QuestCondition.java
+END
+QuestConditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/conditions/QuestConditions.java
+END
+QuestStatusCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/questEngine/handlers/models/xmlQuest/conditions/QuestStatusCondition.java
+END

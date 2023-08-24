@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/223/trunk/LoginServer/src/loginserver/model
+END
+BannedMacEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/223/trunk/LoginServer/src/loginserver/model/BannedMacEntry.java
+END
+ReconnectingAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/LoginServer/src/loginserver/model/ReconnectingAccount.java
+END
+AccountTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/11/trunk/LoginServer/src/loginserver/model/AccountTime.java
+END
+FloodIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/143/trunk/LoginServer/src/loginserver/model/FloodIP.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/LoginServer/src/loginserver/model/Account.java
+END
+BannedIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/LoginServer/src/loginserver/model/BannedIP.java
+END

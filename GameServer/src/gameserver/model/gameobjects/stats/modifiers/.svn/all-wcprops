@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/53/trunk/GameServer/src/gameserver/model/gameobjects/stats/modifiers
+END
+RateModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/modifiers/RateModifier.java
+END
+StatModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/modifiers/StatModifier.java
+END
+SetModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/modifiers/SetModifier.java
+END
+MeanModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/modifiers/MeanModifier.java
+END
+UncheckedAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/modifiers/UncheckedAdd.java
+END
+AddModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/modifiers/AddModifier.java
+END
+CheckWeapon.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/modifiers/CheckWeapon.java
+END
+SubModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/modifiers/SubModifier.java
+END
+SimpleModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/modifiers/SimpleModifier.java
+END
+ObjectContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/53/trunk/GameServer/src/gameserver/model/gameobjects/stats/modifiers/ObjectContainer.java
+END

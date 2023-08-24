@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/ChatServer/src/com/aionengine/chatserver/common/netty
+END
+BaseServerPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/ChatServer/src/com/aionengine/chatserver/common/netty/BaseServerPacket.java
+END
+AbstractPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/11/trunk/ChatServer/src/com/aionengine/chatserver/common/netty/AbstractPacketHandler.java
+END
+AbstractPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/ChatServer/src/com/aionengine/chatserver/common/netty/AbstractPacket.java
+END
+BaseClientPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/ChatServer/src/com/aionengine/chatserver/common/netty/BaseClientPacket.java
+END

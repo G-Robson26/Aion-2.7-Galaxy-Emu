@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/stats
+END
+StatFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/stats/StatFunctions.java
+END
+ClassStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/stats/ClassStats.java
+END
+XPLossEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/stats/XPLossEnum.java
+END
+DropRewardEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/stats/DropRewardEnum.java
+END
+XPRewardEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/stats/XPRewardEnum.java
+END
+AbyssRankEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/utils/stats/AbyssRankEnum.java
+END

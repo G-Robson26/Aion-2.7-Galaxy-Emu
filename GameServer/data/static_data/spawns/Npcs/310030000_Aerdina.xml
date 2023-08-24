@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+	This file is part of Aion Galaxy Emu <aiongemu.com>.
+
+	This is free software: you can redistribute it and/or modify
+	it under the terms of the GNU Lesser Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	This software is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU Lesser Public License for more details.
+
+	You should have received a copy of the GNU Lesser Public License
+	along with this software.  If not, see <http://www.gnu.org/licenses/>.
+	
+	@reworked dimoalex
+	
+	Aerdina
+    
+ -->
+<spawns>
+    <!-- Abyss Gate (Object Normal lvl:1) -->
+	<spawn map="310030000" npcid="700186" pool="1" interval="295">
+       	<object x="276.24802" y="161.69484" z="205.62405" h="34"/>
+    </spawn>
+	<!-- Abyss Gate Guardian Stone (Object Normal lvl:1) -->
+	<spawn map="310030000" npcid="700142" pool="1" interval="295">
+       	<object x="261.40634" y="229.55475" z="213.92723" h="35"/>
+   	</spawn>
+	<!-- (Object Normal lvl:3) (from client spawn)-->
+	<spawn map="310030000" npcid="700143" pool="1" interval="295">
+		<object staticid="8" x="250.70007" y="273.28397" z="228.61275" h="66"/>
+	</spawn>
+</spawns>

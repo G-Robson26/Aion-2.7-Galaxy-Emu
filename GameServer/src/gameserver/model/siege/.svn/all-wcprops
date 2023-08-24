@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/145/trunk/GameServer/src/gameserver/model/siege
+END
+Artifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/siege/Artifact.java
+END
+SiegeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/siege/SiegeType.java
+END
+ArtifactProtector.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/siege/ArtifactProtector.java
+END
+Commander.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/siege/Commander.java
+END
+SiegeLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/43/trunk/GameServer/src/gameserver/model/siege/SiegeLocation.java
+END
+FortressGeneral.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/siege/FortressGeneral.java
+END
+InstancePortal.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/siege/InstancePortal.java
+END
+FortressGateArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/siege/FortressGateArtifact.java
+END
+SiegeRace.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/siege/SiegeRace.java
+END
+FortressGate.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/siege/FortressGate.java
+END
+Influence.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/145/trunk/GameServer/src/gameserver/model/siege/Influence.java
+END
+AethericField.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/siege/AethericField.java
+END

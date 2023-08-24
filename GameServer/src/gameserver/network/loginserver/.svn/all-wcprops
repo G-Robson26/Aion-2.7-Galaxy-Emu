@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/223/trunk/GameServer/src/gameserver/network/loginserver
+END
+LsPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/LsPacketHandler.java
+END
+LsClientPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/LsClientPacket.java
+END
+BannedMacEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/223/trunk/GameServer/src/gameserver/network/loginserver/BannedMacEntry.java
+END
+LsServerPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/LsServerPacket.java
+END
+LoginServerConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/LoginServerConnection.java
+END
+LoginServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/223/trunk/GameServer/src/gameserver/network/loginserver/LoginServer.java
+END
+LoginConnectionFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/LoginConnectionFactoryImpl.java
+END
+BannedMacManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/223/trunk/GameServer/src/gameserver/network/loginserver/BannedMacManager.java
+END

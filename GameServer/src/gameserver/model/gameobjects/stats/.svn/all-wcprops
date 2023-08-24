@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/model/gameobjects/stats
+END
+PlayerGameStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/PlayerGameStats.java
+END
+SummonGameStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/SummonGameStats.java
+END
+NpcGameStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/NpcGameStats.java
+END
+CreatureLifeStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/CreatureLifeStats.java
+END
+StatEffectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/StatEffectType.java
+END
+PlayerLifeStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/102/trunk/GameServer/src/gameserver/model/gameobjects/stats/PlayerLifeStats.java
+END
+Stat.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/Stat.java
+END
+StatModifierPriority.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/StatModifierPriority.java
+END
+StatModifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/StatModifiers.java
+END
+SummonLifeStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/SummonLifeStats.java
+END
+NpcLifeStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/NpcLifeStats.java
+END
+StatEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/model/gameobjects/stats/StatEnum.java
+END
+CreatureGameStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/gameobjects/stats/CreatureGameStats.java
+END

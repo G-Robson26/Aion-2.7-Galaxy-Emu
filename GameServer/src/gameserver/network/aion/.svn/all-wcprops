@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/256/trunk/GameServer/src/gameserver/network/aion
+END
+PlayerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/158/trunk/GameServer/src/gameserver/network/aion/PlayerInfo.java
+END
+MailServicePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/aion/MailServicePacket.java
+END
+AionPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/107/trunk/GameServer/src/gameserver/network/aion/AionPacketHandler.java
+END
+AionClientPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/aion/AionClientPacket.java
+END
+AionServerPacketSeq.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/aion/AionServerPacketSeq.java
+END
+ServerPacketsOpcodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/255/trunk/GameServer/src/gameserver/network/aion/ServerPacketsOpcodes.java
+END
+GameConnectionFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/aion/GameConnectionFactoryImpl.java
+END
+InventoryPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/166/trunk/GameServer/src/gameserver/network/aion/InventoryPacket.java
+END
+AionServerPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/173/trunk/GameServer/src/gameserver/network/aion/AionServerPacket.java
+END
+AionConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/223/trunk/GameServer/src/gameserver/network/aion/AionConnection.java
+END
+SystemMessageId.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/aion/SystemMessageId.java
+END

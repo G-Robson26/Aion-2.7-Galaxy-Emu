@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<academy_teleports>
+	<teleport_stage id="1">
+		<academy_loc map="300300000" x="356.1822" y="349.26187" z="96.091064" />
+		<academy_respawn_loc map="300300000" x="380.53528" y="349.26575" z="96.74763" />
+	</teleport_stage>
+	<teleport_stage id="2">
+		<academy_loc map="300300000" x="356.1822" y="349.26187" z="96.091064" />
+		<academy_respawn_loc map="300300000" x="380.53528" y="349.26575" z="96.74763" />
+	</teleport_stage>
+	<teleport_stage id="3">
+		<academy_loc map="300300000" x="356.1822" y="349.26187" z="96.091064" />
+		<academy_respawn_loc map="300300000" x="380.53528" y="349.26575" z="96.74763" />
+	</teleport_stage>
+	<teleport_stage id="4">
+		<academy_loc map="300300000" x="356.1822" y="349.26187" z="96.091064" />
+		<academy_respawn_loc map="300300000" x="380.53528" y="349.26575" z="96.74763" />
+	</teleport_stage>
+	<teleport_stage id="5">
+		<academy_loc map="300300000" x="1260.0226" y="812.2064" z="358.60562" />
+		<academy_respawn_loc map="300300000" x="1259.9998" y="830.66925" z="358.60562" />
+	</teleport_stage>
+	<teleport_stage id="6">
+		<academy_loc map="300300000" x="1619.9496" y="147.52574" z="126" />
+		<academy_respawn_loc map="300300000" x="1593.5266" y="150.46057" z="128" />
+	</teleport_stage>
+	<teleport_stage id="7">
+		<academy_loc map="300300000" x="1799.1672" y="795.97266" z="469.67706" />
+		<academy_respawn_loc map="300300000" x="1799.1672" y="795.97266" z="469.67706" />
+	</teleport_stage>
+	<teleport_stage id="8">
+		<academy_loc map="300300000" x="1776.4169" y="1749.9952" z="303.69553" />
+		<academy_respawn_loc map="300300000" x="1776.4678" y="1726.5989" z="304" />
+	</teleport_stage>
+	<teleport_stage id="9">
+		<academy_loc map="300300000" x="1328.935" y="1742.0771" z="316.74188" />
+		<academy_respawn_loc map="300300000" x="1358.032" y="1748.5848" z="319.41556" />
+	</teleport_stage>
+	<teleport_stage id="10">
+		<academy_loc map="300300000" x="1760.9441" y="1278.033" z="394.23764" />
+		<academy_respawn_loc map="300300000" x="1751.4393" y="1256.2622" z="394.2378" />
+	</teleport_stage>
+</academy_teleports>

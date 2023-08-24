@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/ChatServer/src/com/aionengine/chatserver/network/gameserver/serverpackets
+END
+SM_GS_AUTH_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/11/trunk/ChatServer/src/com/aionengine/chatserver/network/gameserver/serverpackets/SM_GS_AUTH_RESPONSE.java
+END
+SM_PLAYER_AUTH_RESPONSE.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/11/trunk/ChatServer/src/com/aionengine/chatserver/network/gameserver/serverpackets/SM_PLAYER_AUTH_RESPONSE.java
+END

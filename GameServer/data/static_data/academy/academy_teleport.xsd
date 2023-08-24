@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:include schemaLocation="../import.xsd" />
+
+	<xs:element name="academy_teleports">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="import" minOccurs="0" maxOccurs="unbounded" />
+				<xs:element name="teleport_stage" type="TeleportForStage" minOccurs="0" maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:complexType name="TeleportForStage">
+		<xs:sequence>
+			<xs:element name="academy_loc" type="AcademyTeleportLocation" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="academy_respawn_loc" type="AcademyTeleportLocation" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:int"/>
+	</xs:complexType>
+
+	<xs:complexType name="AcademyTeleportLocation">
+		<xs:attribute name="map" type="xs:int" />
+		<xs:attribute name="x" type="xs:float" />
+		<xs:attribute name="y" type="xs:float" />
+		<xs:attribute name="z" type="xs:float" />
+	</xs:complexType>
+	
+</xs:schema>

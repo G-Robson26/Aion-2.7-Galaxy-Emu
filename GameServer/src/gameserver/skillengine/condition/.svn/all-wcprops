@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/skillengine/condition
+END
+MpCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/condition/MpCondition.java
+END
+FlyRestrictionAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/skillengine/condition/FlyRestrictionAttribute.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/condition/Condition.java
+END
+Conditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/skillengine/condition/Conditions.java
+END
+DpCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/condition/DpCondition.java
+END
+TargetAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/condition/TargetAttribute.java
+END
+TargetCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/skillengine/condition/TargetCondition.java
+END
+HpCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/condition/HpCondition.java
+END
+PlayerMovedCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/condition/PlayerMovedCondition.java
+END
+ArrowCheckCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/condition/ArrowCheckCondition.java
+END

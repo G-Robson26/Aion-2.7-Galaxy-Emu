@@ -1,0 +1,599 @@
+/**
+ * This file is part of Aion Galaxy Emu <aiongemu.com>
+ *
+ *  This is free software: you can redistribute it and/or modify
+ *  it under the terms of the GNU Lesser Public License as published by
+ *  the Free Software Foundation, either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  This software is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU Lesser Public License for more details.
+ *
+ *  You should have received a copy of the GNU Lesser Public License
+ *  along with this software.  If not, see <http://www.gnu.org/licenses/>.
+ */
+package quest.inggison;
+
+import gameserver.controllers.PortalController;
+import gameserver.dataholders.DataManager;
+import gameserver.model.gameobjects.Item;
+import gameserver.model.gameobjects.Npc;
+import gameserver.model.gameobjects.player.Player;
+import gameserver.model.templates.WorldMapTemplate;
+import gameserver.model.templates.quest.QuestItems;
+import gameserver.network.aion.serverpackets.SM_DIALOG_WINDOW;
+import gameserver.network.aion.serverpackets.SM_ITEM_USAGE_ANIMATION;
+import gameserver.network.aion.serverpackets.SM_SYSTEM_MESSAGE;
+import gameserver.questEngine.HandlerResult;
+import gameserver.questEngine.handlers.QuestHandler;
+import gameserver.questEngine.model.QuestCookie;
+import gameserver.questEngine.model.QuestState;
+import gameserver.questEngine.model.QuestStatus;
+import gameserver.services.InstanceService;
+import gameserver.services.ItemService;
+import gameserver.services.QuestService;
+import gameserver.services.TeleportService;
+import gameserver.skillengine.SkillEngine;
+import gameserver.skillengine.model.Skill;
+import gameserver.utils.PacketSendUtility;
+import gameserver.utils.ThreadPoolManager;
+import gameserver.world.WorldMapInstance;
+
+import java.util.Collections;
+
+/**
+ * @author Dex
+ *
+ */
+
+public class _10021FriendsForLife extends QuestHandler
+{
+    private final static int    questId = 10021;
+    private final static int[]  npc_ids = { 798927, 798954, 799022, 730008, 730019, 730024 };
+
+    public _10021FriendsForLife()
+    {
+        super(questId);
+    }
+
+    @Override
+    public void register()
+    {
+		qe.addOnEnterWorld(questId);
+		qe.addQuestLvlUp(questId);
+		qe.setNpcQuestData(215523).addOnKillEvent(questId);
+		qe.setNpcQuestData(215522).addOnKillEvent(questId);
+		qe.setNpcQuestData(215520).addOnKillEvent(questId);
+		qe.setNpcQuestData(215521).addOnKillEvent(questId);
+		qe.setQuestItemIds(182206627).add(questId);
+		qe.setQuestItemIds(182206628).add(questId);
+		qe.setQuestItemIds(164000137).add(questId);
+		qe.setQuestItemIds(164000138).add(questId);
+		qe.setQuestItemIds(164000139).add(questId);
+		for(int npc_id : npc_ids)
+			qe.setNpcQuestData(npc_id).addOnTalkEvent(questId);
+	}
+
+	@Override
+	public boolean onEnterWorldEvent(QuestCookie env)
+	{
+		Player player = env.getPlayer();
+		QuestState qs = player.getQuestStateList().getQuestState(questId);
+		if (qs == null)
+			return false;
+		
+		if(qs.getStatus() == QuestStatus.START || qs.getStatus() == QuestStatus.COMPLETE)
+		{
+			if(player.getWorldId() != 300190000)
+			{
+				player.getInventory().removeFromBagByItemId(182206627, 1);
+				player.getInventory().removeFromBagByItemId(182206628, 1);
+				player.getInventory().removeFromBagByItemId(164000137, 1);
+				player.getInventory().removeFromBagByItemId(164000138, 1);
+				player.getInventory().removeFromBagByItemId(164000139, 1);
+			}
+		}
+		return false;
+	}
+	
+	@Override
+	public boolean onKillEvent(QuestCookie env)
+	{
+		Player player = env.getPlayer();
+		QuestState qs = player.getQuestStateList().getQuestState(questId);
+		if(qs == null || qs.getStatus() != QuestStatus.START)
+			return false;
+
+		switch(env.getTargetId())
+		{
+			case 215523:
+			case 215522:
+			case 215520:
+			case 215521:
+				if(qs.getQuestVarById(1) < 34 && qs.getQuestVarById(0) == 3)
+				{
+					qs.setQuestVarById(1, qs.getQuestVarById(1) + 1);
+					updateQuestStatus(env);
+					return true;
+				}
+				break;
+			case 215488:
+				if(qs.getQuestVarById(0) == 7)
+				{
+					@SuppressWarnings("unused")
+					final int instanceId = player.getInstanceId();
+					QuestService.addNewSpawn(300190000, player.getInstanceId(), 799503, (float) 566.1413, (float) 813.3888, (float) 1375.138, (byte) 32, true);
+					return true;
+				} 
+				else if(qs != null && qs.getStatus() == QuestStatus.COMPLETE)
+				{
+					@SuppressWarnings("unused")
+					final int instanceId = player.getInstanceId();
+					QuestService.addNewSpawn(300190000, player.getInstanceId(), 799503, (float) 566.1413, (float) 813.3888, (float) 1375.138, (byte) 32, true);
+					return true;
+				} 
+		}
+		
+		return false;
+    }
+
+	@Override
+	public boolean onItemUseEvent(final QuestCookie env, final Item item)
+	{
+		final Player player = env.getPlayer();
+		final int id = item.getItemTemplate().getTemplateId();
+		final int itemObjId = item.getObjectId();
+		final QuestState qs = player.getQuestStateList().getQuestState(questId);
+		final int var = qs.getQuestVarById(0);
+
+		if (id != 182206627 && id != 182206628 && id != 164000137 && id != 164000138 && id != 164000139)
+			return false;
+
+		if(player.getWorldId() != 300190000)
+			return false;
+
+		if (qs != null && qs.getStatus() == QuestStatus.COMPLETE)
+		{
+			if (id == 182206628 && !hasItem(player, 182206628))
+			{
+				if (!ItemService.addItems(player, Collections.singletonList(new QuestItems(182206628, 1))))
+					return true;
+			}
+			if (id == 182206627 && !hasItem(player, 182206627))
+			{
+				if (!ItemService.addItems(player, Collections.singletonList(new QuestItems(182207604, 1))))
+					return true;
+			}
+			if (id == 164000137 && !hasItem(player, 164000137))
+			{
+				if (!ItemService.addItems(player, Collections.singletonList(new QuestItems(164000137, 1))))
+					return true;
+			}
+			if (id == 164000138 && !hasItem(player, 164000138))
+			{
+				if (!ItemService.addItems(player, Collections.singletonList(new QuestItems(164000138, 1))))
+					return true;
+			}
+			if (id == 164000139 && !hasItem(player, 164000139))
+			{
+				if (!ItemService.addItems(player, Collections.singletonList(new QuestItems(164000139, 1))))
+					return true;
+			}
+			useSkill(player, item);
+		}
+		else if (var == 5 || var == 6 || var == 7)
+		{
+			if (id == 182206627)
+			{
+				PacketSendUtility.broadcastPacket(player, new SM_ITEM_USAGE_ANIMATION(player.getObjectId(), itemObjId, id, 3000, 0, 0), true);
+				ThreadPoolManager.getInstance().schedule(new Runnable(){
+					@Override
+					public void run()
+					{
+						int var = qs.getQuestVarById(0);
+						PacketSendUtility.broadcastPacket(player, new SM_ITEM_USAGE_ANIMATION(player.getObjectId(), itemObjId, id, 0, 1, 0), true);
+						if (var == 5)
+						{
+							qs.setQuestVarById(0, var + 1);
+							updateQuestStatus(env);
+						}
+						useSkill(player, item);
+					}
+				}, 3000);
+			}
+			else if (id == 182206628 && var > 5)
+			{
+				ThreadPoolManager.getInstance().schedule(new Runnable(){
+					@Override
+					public void run()
+					{
+						int var2 = qs.getQuestVarById(2);
+						if(var < 7 && var2 < 19)
+						{
+							qs.setQuestVarById(2, var2 + 1);
+							if (!hasItem(player, 182206628))
+								ItemService.addItem(player, 182206628, 1);
+								
+							updateQuestStatus(env);
+						}
+						else if (var == 6 && var2 > 0)
+						{
+							qs.setQuestVarById(2,0);// Needed to continue
+							qs.setQuestVarById(0, var + 1);
+							updateQuestStatus(env);
+						}
+						useSkill(player, item);
+					}
+				}, 100);
+			}
+		}
+		return false; // don't remove from inventory
+	}
+	
+	private void useSkill(Player player, Item item)
+	{
+		if (player.isItemUseDisabled(item.getItemTemplate().getDelayId()))
+		{
+			PacketSendUtility.sendPacket(player, SM_SYSTEM_MESSAGE.STR_ITEM_CANT_USE_UNTIL_DELAY_TIME);
+			return;
+		}
+		
+		int useDelay = item.getItemTemplate().getDelayTime();
+		player.addItemCoolDown(item.getItemTemplate().getDelayId(), System.currentTimeMillis() + useDelay, useDelay / 1000);
+
+		if (item.getItemId() == 182206627)
+		{
+			int skillId = 10251;
+			int level = 1;
+
+			Skill skill = SkillEngine.getInstance().getSkill(player, skillId, level, player);
+			if(skill != null)
+			{
+			PacketSendUtility.broadcastPacket(player, new SM_ITEM_USAGE_ANIMATION(player.getObjectId(),
+				item.getObjectId(), item.getItemTemplate().getTemplateId()), true);
+			skill.useSkill();
+			}
+			return;
+		}
+		if (item.getItemId() == 182206628)
+		{
+		int skillId = item.getItemId() == 182206627 ? 10251 : 9831;
+		int level = item.getItemId() == 182206627 ? 1 : 4;
+
+		Skill skill = SkillEngine.getInstance().getSkill(player, skillId, level, player);
+		if(skill != null)
+		{
+			PacketSendUtility.broadcastPacket(player, new SM_ITEM_USAGE_ANIMATION(player.getObjectId(),
+				item.getObjectId(), item.getItemTemplate().getTemplateId()), true);
+			skill.useSkill();
+		}
+			return;
+		}
+		else if (item.getItemId() == 164000137)
+		{
+			int skillId = 164000137 == 182207604 ? 10252 : 9832;
+			int level = item.getItemId() == 182207604 ? 1 : 4;
+
+			Skill skill = SkillEngine.getInstance().getSkill(player, skillId, level, player);
+			if(skill != null)
+			{
+			PacketSendUtility.broadcastPacket(player, new SM_ITEM_USAGE_ANIMATION(player.getObjectId(),
+				item.getObjectId(), item.getItemTemplate().getTemplateId()), true);
+			skill.useSkill();
+			}
+			return;
+		}
+		else if (item.getItemId() == 164000138)
+		{
+			int skillId = 164000138 == 182207604 ? 10252 : 9833;
+			int level = item.getItemId() == 182207604 ? 1 : 4;
+
+			Skill skill = SkillEngine.getInstance().getSkill(player, skillId, level, player);
+			if(skill != null)
+			{
+			PacketSendUtility.broadcastPacket(player, new SM_ITEM_USAGE_ANIMATION(player.getObjectId(),
+				item.getObjectId(), item.getItemTemplate().getTemplateId()), true);
+			skill.useSkill();
+			}
+			return;
+		}
+		else if (item.getItemId() == 164000139)
+		{
+			int skillId = 164000139 == 182207604 ? 10252 : 9834;
+			int level = item.getItemId() == 182207604 ? 1 : 4;
+
+			Skill skill = SkillEngine.getInstance().getSkill(player, skillId, level, player);
+			if(skill != null)
+			{
+			PacketSendUtility.broadcastPacket(player, new SM_ITEM_USAGE_ANIMATION(player.getObjectId(),
+				item.getObjectId(), item.getItemTemplate().getTemplateId()), true);
+			skill.useSkill();
+			}
+			return;
+		}					
+	}
+
+	@Override
+	public boolean onLvlUpEvent(QuestCookie env)
+	{
+		return defaultQuestOnLvlUpEvent(env);
+	}
+	
+	private boolean hasItem(Player player, int itemId)
+	{
+		return player.getInventory().getItemCountByItemId(itemId) > 0;
+	}
+
+	@Override
+	public boolean onDialogEvent(QuestCookie env)
+	{
+		final Player player = env.getPlayer();
+		final QuestState qs = player.getQuestStateList().getQuestState(questId);
+		if(qs == null)
+			return false;
+
+		int var = qs.getQuestVarById(0);
+		int targetId = 0;
+		if(env.getVisibleObject() instanceof Npc)
+			targetId = ((Npc) env.getVisibleObject()).getNpcId();
+
+		if(qs.getStatus() == QuestStatus.REWARD)
+		{
+			if(targetId == 798927)
+			{
+				if(env.getDialogId() == -1)
+					return sendQuestDialog(env, 10002);
+				else if(env.getDialogId() == 1009)
+					return sendQuestDialog(env, 5);
+				else return defaultQuestEndDialog(env);
+			}
+			return false;
+		}
+		else if(qs.getStatus() == QuestStatus.COMPLETE)
+		{
+			if(targetId == 799022)
+			{
+				if(env.getDialogId() == -1)
+					return sendQuestDialog(env, 2376);
+				else if(env.getDialogId() == 10004)
+				{
+					if(player.getPlayerGroup() == null)
+					{
+						WorldMapTemplate world = DataManager.WORLD_MAPS_DATA.getTemplate(300190000);
+						int mapname = DataManager.WORLD_MAPS_DATA.getTemplate(300190000).getMapNameId();
+						if (!InstanceService.canEnterInstance(player, world.getInstanceMapId(), 0))
+						{
+							int timeinMinutes = InstanceService.getTimeInfo(player).get(world.getInstanceMapId())/60;
+							if (timeinMinutes >= 60 )
+								PacketSendUtility.sendPacket(player, SM_SYSTEM_MESSAGE.STR_MSG_CANNOT_ENTER_INSTANCE_COOL_TIME_HOUR(mapname, timeinMinutes/60));
+							else	
+								PacketSendUtility.sendPacket(player, SM_SYSTEM_MESSAGE.STR_MSG_CANNOT_ENTER_INSTANCE_COOL_TIME_MIN(mapname, timeinMinutes));
+							
+							return false;
+						}
+						if (!hasItem(player, 182206627))
+						{
+							if (!ItemService.addItems(player, Collections.singletonList(new QuestItems(182206627, 1))))
+								return true;
+							
+						}
+						if (!hasItem(player, 182206628))
+						{
+							if (!ItemService.addItems(player, Collections.singletonList(new QuestItems(182206628, 1))))
+								return true;
+						
+						}
+						WorldMapInstance newInstance = InstanceService.getNextAvailableInstance(300190000);
+						InstanceService.registerPlayerWithInstance(newInstance, player);
+						TeleportService.teleportTo(player, 300190000, newInstance.getInstanceId(), 198.82353f, 221.40387f, 1098.4879f, (byte) 41);
+						PortalController.setInstanceCooldown(player, 300190000, newInstance.getInstanceId());
+						return true;
+					}
+					else
+						return sendQuestDialog(env, 2546);
+				}
+				else
+					return defaultQuestStartDialog(env);
+			}
+		else if(targetId == 799503)
+		{
+			switch(env.getDialogId())
+			{
+				case 26:
+					if(var == 1)
+						return sendQuestDialog(env, 4080);
+				case 1013:
+				case 10000:
+					if(var == 1)
+					{
+						PacketSendUtility.sendPacket(player, new SM_DIALOG_WINDOW(env.getVisibleObject().getObjectId(), 0));
+						TeleportService.teleportTo(player, 210050000, 2888.9226f, 359.70108f, 298.73184f, (byte) 56);
+						return true;
+					}
+			}
+		}
+		}
+		else if(qs.getStatus() != QuestStatus.START)
+		{
+			return false;
+		}
+		if(targetId == 798927) // Versetti
+		{
+			switch(env.getDialogId())
+			{
+				case 26:
+					if(var == 0)
+						return sendQuestDialog(env, 1011);
+				case 10000:
+					if(var == 0)
+					{
+						qs.setQuestVarById(0, var + 1);
+						updateQuestStatus(env);
+						PacketSendUtility.sendPacket(player, new SM_DIALOG_WINDOW(env.getVisibleObject().getObjectId(), 10));
+						return true;
+					}
+			}
+		}
+		else if(targetId == 798954) // Tialla
+		{
+			switch(env.getDialogId())
+			{
+				case 26:
+					if(var == 1)
+						return sendQuestDialog(env, 1352);
+					else if(var == 8)
+						return sendQuestDialog(env, 3057);
+				case 10001:
+					if(var == 1)
+					{
+						qs.setQuestVarById(0, var + 1);
+						updateQuestStatus(env);
+						PacketSendUtility.sendPacket(player, new SM_DIALOG_WINDOW(env.getVisibleObject().getObjectId(), 10));
+						return true;
+					}
+				case 10255:
+					if(var == 8)
+					{
+						qs.setQuestVarById(0, 11);
+						updateQuestStatus(env);
+						PacketSendUtility.sendPacket(player, new SM_DIALOG_WINDOW(env.getVisibleObject().getObjectId(), 10));
+						return true;
+					}
+			}
+		}
+		else if(targetId == 799022) // Lothas
+		{
+			switch(env.getDialogId())
+			{
+				case -1:
+					if(var == 2)
+						return sendQuestDialog(env, 1779);
+					else if (var > 2 && var < 3)
+						return sendQuestDialog(env, 2461);
+				break;
+				case 26:
+					if(var == 3)
+					{
+						if (qs.getQuestVarById(1) == 0)
+							return sendQuestDialog(env, 1693);
+						else
+							return sendQuestDialog(env, 2375);
+					}
+					else if(var == 7)
+					{
+						if(player.getInventory().getItemCountByItemId(182206602) == 0)
+							return sendQuestDialog(env, 2461);
+						else
+							return sendQuestDialog(env, 2716);
+					}
+					else if(var == 14)
+						return sendQuestDialog(env, 4336);
+				case 10002:
+					if(var == 14)
+					{
+						qs.setStatus(QuestStatus.REWARD);
+						updateQuestStatus(env);
+						PacketSendUtility.sendPacket(player, new SM_DIALOG_WINDOW(env.getVisibleObject().getObjectId(), 10));
+						return true;
+					}
+				case 10003:
+					if(var == 2)
+					{
+						qs.setQuestVarById(0, var + 1);
+						updateQuestStatus(env);
+					}
+					PacketSendUtility.sendPacket(player, new SM_DIALOG_WINDOW(env.getVisibleObject().getObjectId(), 10));
+					return true;
+				case 10004:
+					if(var == 3 || var < 7)
+					{
+						if(player.getPlayerGroup() == null)
+						{
+							if (!hasItem(player, 182206627))
+							{
+								if (!ItemService.addItems(player, Collections.singletonList(new QuestItems(182206627, 1))))
+									return true;
+							}
+							if (!hasItem(player, 182206628))
+							{
+								if (!ItemService.addItems(player, Collections.singletonList(new QuestItems(182206628, 1))))
+									return true;
+							}
+							if (var < 7)
+							{
+								qs.setQuestVarById(1, 0); // clear killed Brohums
+								qs.setQuestVarById(2, 0); // clear used Tears
+								qs.setQuestVarById(0, 5);
+								updateQuestStatus(env);
+							}
+							WorldMapInstance newInstance = InstanceService.getNextAvailableInstance(300190000);
+							InstanceService.registerPlayerWithInstance(newInstance, player);
+							TeleportService.teleportTo(player, 300190000, newInstance.getInstanceId(), 198.82353f, 221.40387f, 1098.4879f, (byte) 41);
+							return true;
+						}
+						else
+							return sendQuestDialog(env, 2546);
+					}
+				case 34:
+					if(var == 7)
+					{
+						if(QuestService.collectItemCheck(env, true))
+						{
+							long itemCount = player.getInventory().getItemCountByItemId(164000099);
+							player.getInventory().removeFromBagByItemId(164000099, itemCount);
+							qs.setQuestVarById(0, var + 1);
+							updateQuestStatus(env);
+							PacketSendUtility.sendPacket(player, new SM_DIALOG_WINDOW(env.getVisibleObject().getObjectId(), 10));
+							return sendQuestDialog(env, 10000);
+						}
+						else
+							return sendQuestDialog(env, 10001);
+					}
+			}
+		}
+		else if(targetId == 730008 && var == 11) // Daminu
+		{
+			switch(env.getDialogId())
+			{
+				case 26:
+					return sendQuestDialog(env, 3398);
+				case 10007:
+					qs.setQuestVarById(0, var + 1);
+					updateQuestStatus(env);
+					PacketSendUtility.sendPacket(player, new SM_DIALOG_WINDOW(env.getVisibleObject().getObjectId(), 10));
+					return true;
+			}
+		}
+		else if(targetId == 730019 && var == 12) // Lodas
+		{
+			switch(env.getDialogId())
+			{
+				case 26:
+					return sendQuestDialog(env, 3739);
+				case 10008:
+					qs.setQuestVarById(0, var + 1);
+					updateQuestStatus(env);
+					PacketSendUtility.sendPacket(player, new SM_DIALOG_WINDOW(env.getVisibleObject().getObjectId(), 10));
+					return true;
+			}
+		}
+		else if(targetId == 730024 && var == 13) // Trajanus
+		{
+			switch(env.getDialogId())
+			{
+				case 26:
+					return sendQuestDialog(env, 4080);
+				case 10009:
+					qs.setQuestVarById(0, var + 1);
+					updateQuestStatus(env);
+					PacketSendUtility.sendPacket(player, new SM_DIALOG_WINDOW(env.getVisibleObject().getObjectId(), 10));
+					return true;
+			}
+		}
+
+		
+		return false;
+	}
+}

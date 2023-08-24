@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/102/trunk/GameServer/src/gameserver/model/templates/quest
+END
+CollectItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/quest/CollectItems.java
+END
+Rewards.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/quest/Rewards.java
+END
+NpcQuestData.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/quest/NpcQuestData.java
+END
+QuestItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/quest/QuestItems.java
+END
+CollectItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/quest/CollectItem.java
+END
+QuestDrop.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/GameServer/src/gameserver/model/templates/quest/QuestDrop.java
+END
+QuestWorkItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/quest/QuestWorkItems.java
+END

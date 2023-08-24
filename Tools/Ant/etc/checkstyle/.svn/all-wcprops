@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/checkstyle
+END
+checkstyle-text.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/checkstyle/checkstyle-text.xsl
+END
+checkstyle-xdoc.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/checkstyle/checkstyle-xdoc.xsl
+END
+checkstyle-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/checkstyle/checkstyle-frames.xsl
+END

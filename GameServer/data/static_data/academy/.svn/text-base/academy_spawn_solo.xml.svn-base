@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<academy_spawns_solo>
+	<stage_solo id="1">
+		<round_solo id="1">
+			<academy_spawn_solo map="300320000" npcid="217784" pool="3" race="ELYOS" classSolo="ALL" time="0" point="120">
+				<aloc_solo x="333.69342" y="1672.6724" z="96.02286" h="115" />
+				<aloc_solo x="331.97446" y="1661.822" z="95.876595" h="2" />
+				<aloc_solo x="338.11926" y="1651.6964" z="95.780495" h="24" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217784" pool="2" race="ELYOS" classSolo="ALL" time="30" point="120">
+				<aloc_solo x="349.43622" y="1655.2244" z="95.638245" h="51" />
+				<aloc_solo x="348.53693" y="1670.2302" z="95.51439" h="74" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217785" pool="3" race="ASMODIANS" classSolo="ALL" time="0" point="120">
+				<aloc_solo x="333.69342" y="1672.6724" z="96.02286" h="115" />
+				<aloc_solo x="331.97446" y="1661.822" z="95.876595" h="2" />
+				<aloc_solo x="338.11926" y="1651.6964" z="95.780495" h="24" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217785" pool="2" race="ASMODIANS" classSolo="ALL" time="30" point="120">
+				<aloc_solo x="349.43622" y="1655.2244" z="95.638245" h="51" />
+				<aloc_solo x="348.53693" y="1670.2302" z="95.51439" h="74" />
+			</academy_spawn_solo>
+		</round_solo>
+		<round_solo id="2">
+			<academy_spawn_solo map="300320000" npcid="217783" pool="1" race="PC_ALL" classSolo="ALL" time="0" point="1600">
+				<aloc_solo x="334.9315" y="1662.5503" z="95.56678" h="2" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217796" pool="2" race="PC_ALL" classSolo="ALL" time="30" point="60">
+				<aloc_solo x="349.43622" y="1655.2244" z="95.638245" h="51" />
+				<aloc_solo x="348.53693" y="1670.2302" z="95.51439" h="74" />
+			</academy_spawn_solo>
+		</round_solo>
+	</stage_solo>
+	<stage_solo id="2">
+		<round_solo id="1">
+			<academy_spawn_solo map="300320000" npcid="217800" pool="1" race="ELYOS" classSolo="ALL" time="0" point="1650">
+				<aloc_solo x="1770.952" y="318.5137" z="469.25" h="105" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217801" pool="1" race="ELYOS" classSolo="ALL" time="5" point="1650">
+				<aloc_solo x="1766.7863" y="313.40744" z="469.25" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217797" pool="1" race="ASMODIANS" classSolo="ALL" time="0" point="1100">
+				<aloc_solo x="1766.8506" y="310.36887" z="469.25" h="117" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217798" pool="2" race="ASMODIANS" classSolo="ALL" time="0" point="1100">
+				<aloc_solo x="1767.464" y="314.08783" z="469.25" h="117" />
+				<aloc_solo x="1766.3417" y="306.77667" z="469.25" h="117" />
+			</academy_spawn_solo>
+		</round_solo>
+	</stage_solo>
+	<stage_solo id="3">
+		<round_solo id="1">
+			<academy_spawn_solo map="300320000" npcid="217842" pool="2" race="PC_ALL" classSolo="ALL" time="0" point="50">
+				<aloc_solo x="1293.1746" y="1775.574" z="316.875" h="11" />
+				<aloc_solo x="1287.526" y="1738.7649" z="316.625" h="8" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217842" pool="2" race="PC_ALL" classSolo="ALL" time="30" point="50">
+				<aloc_solo x="1289.1613" y="1734.1151" z="316.7428" h="7" />
+				<aloc_solo x="1288.0348" y="1737.6473" z="316.625" h="5" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217843" pool="1" race="PC_ALL" classSolo="ALL" time="60" point="1400">
+				<aloc_solo x="1277.2196" y="1734.8619" z="317.4898" h="2" />
+			</academy_spawn_solo>
+		</round_solo>
+		<round_solo id="2">
+			<academy_spawn_solo map="300320000" npcid="217847" pool="1" race="PC_ALL" classSolo="ALL" time="0" point="4200">
+				<aloc_solo x="1310.2085" y="1736.5303" z="316" h="62" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217846" pool="2" race="PC_ALL" classSolo="ALL" time="30" point="50">
+				<aloc_solo x="1307.9106" y="1744.1405" z="316.51758" h="88" />
+				<aloc_solo x="1307.5115" y="1727.6212" z="316.28052" h="26" />
+			</academy_spawn_solo>
+		</round_solo>
+	</stage_solo>
+	<stage_solo id="4">
+		<round_solo id="1">
+			<academy_spawn_solo map="300320000" npcid="217787" pool="3" race="PC_ALL" classSolo="ALL" time="0" point="200">
+				<aloc_solo x="1253.5546" y="226.26431" z="405.38013" h="23" />
+				<aloc_solo x="1246.0366" y="237.90244" z="405.38013" h="118" />
+				<aloc_solo x="1251.0897" y="249.00667" z="405.38013" h="99" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217791" pool="1" race="PC_ALL" classSolo="ALL" time="30" point="1300">
+				<aloc_solo x="1238.0581" y="237.80278" z="405.3801" h="0" />
+			</academy_spawn_solo>
+		</round_solo>
+		<round_solo id="2">
+			<academy_spawn_solo map="300320000" npcid="217795" pool="1" race="PC_ALL" classSolo="ALL" time="0" point="5000">
+				<aloc_solo x="1258.8864" y="237.83522" z="405.39676" h="61" />
+			</academy_spawn_solo>
+		</round_solo>
+	</stage_solo>
+	<stage_solo id="5">
+		<round_solo id="1">
+			<academy_spawn_solo map="300320000" npcid="217807" pool="1" race="ELYOS" classSolo="GLADIATOR" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217807" pool="1" race="ELYOS" classSolo="TEMPLAR" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217808" pool="1" race="ELYOS" classSolo="ASSASSIN" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217808" pool="1" race="ELYOS" classSolo="RANGER" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217809" pool="1" race="ELYOS" classSolo="SORCERER" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217809" pool="1" race="ELYOS" classSolo="SPIRIT_MASTER" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217810" pool="1" race="ELYOS" classSolo="CLERIC" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217810" pool="1" race="ELYOS" classSolo="CHANTER" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217811" pool="1" race="ASMODIANS" classSolo="GLADIATOR" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217811" pool="1" race="ASMODIANS" classSolo="TEMPLAR" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217812" pool="1" race="ASMODIANS" classSolo="ASSASSIN" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217812" pool="1" race="ASMODIANS" classSolo="RANGER" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217813" pool="1" race="ASMODIANS" classSolo="SORCERER" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217813" pool="1" race="ASMODIANS" classSolo="SPIRIT_MASTER" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217814" pool="1" race="ASMODIANS" classSolo="CLERIC" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217814" pool="1" race="ASMODIANS" classSolo="CHANTER" time="0" point="2500">
+				<aloc_solo x="329.50494" y="356.34854" z="96.09092" h="110" />
+			</academy_spawn_solo>
+		</round_solo>
+		<round_solo id="2">
+			<academy_spawn_solo map="300320000" npcid="217815" pool="1" race="ELYOS" classSolo="ALL" time="0" point="5800">
+				<aloc_solo x="329.75946" y="341.31516" z="96.09092" h="12" />
+			</academy_spawn_solo>
+			<academy_spawn_solo map="300320000" npcid="217817" pool="1" race="ASMODIANS" classSolo="ALL" time="0" point="5800">
+				<aloc_solo x="329.75946" y="341.31516" z="96.09092" h="12" />
+			</academy_spawn_solo>
+		</round_solo>
+	</stage_solo>
+	<stage_solo id="6">
+		<round_solo id="1">
+			<academy_spawn_solo map="300320000" npcid="217819" pool="1" race="PC_ALL" classSolo="ALL" time="0" point="7200">
+				<aloc_solo x="1768.7235" y="1298.0754" z="389.1173" h="82" />
+			</academy_spawn_solo>
+		</round_solo>
+	</stage_solo>
+</academy_spawns_solo>

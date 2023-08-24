@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/controllers/instances
+END
+FireTempleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/instances/FireTempleController.java
+END
+SteelRakeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/instances/SteelRakeController.java
+END
+AcademySoloController.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/controllers/instances/AcademySoloController.java
+END
+AcademyController.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/controllers/instances/AcademyController.java
+END
+KromedesTrialController.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/53/trunk/GameServer/src/gameserver/controllers/instances/KromedesTrialController.java
+END
+BeshmundirTempleController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/53/trunk/GameServer/src/gameserver/controllers/instances/BeshmundirTempleController.java
+END
+FortressInstanceTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/53/trunk/GameServer/src/gameserver/controllers/instances/FortressInstanceTimer.java
+END
+HaramelController.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/53/trunk/GameServer/src/gameserver/controllers/instances/HaramelController.java
+END
+DredgionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/controllers/instances/DredgionController.java
+END

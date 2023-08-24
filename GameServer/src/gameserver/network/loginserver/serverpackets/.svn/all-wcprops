@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/223/trunk/GameServer/src/gameserver/network/loginserver/serverpackets
+END
+SM_REQUEST_MAC.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/223/trunk/GameServer/src/gameserver/network/loginserver/serverpackets/SM_REQUEST_MAC.java
+END
+SM_GS_AUTH.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/serverpackets/SM_GS_AUTH.java
+END
+SM_ACCOUNT_AUTH.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/serverpackets/SM_ACCOUNT_AUTH.java
+END
+SM_LS_CONTROL.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/serverpackets/SM_LS_CONTROL.java
+END
+SM_ACCOUNT_DISCONNECTED.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/serverpackets/SM_ACCOUNT_DISCONNECTED.java
+END
+SM_MAC.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/223/trunk/GameServer/src/gameserver/network/loginserver/serverpackets/SM_MAC.java
+END
+SM_BAN.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/serverpackets/SM_BAN.java
+END
+SM_ACCOUNT_TOLL_INFO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/serverpackets/SM_ACCOUNT_TOLL_INFO.java
+END
+SM_MACBAN_CONTROL.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/223/trunk/GameServer/src/gameserver/network/loginserver/serverpackets/SM_MACBAN_CONTROL.java
+END
+SM_LS_CHARACTER_COUNT.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/serverpackets/SM_LS_CHARACTER_COUNT.java
+END
+SM_ACCOUNT_RECONNECT_KEY.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/serverpackets/SM_ACCOUNT_RECONNECT_KEY.java
+END
+SM_ACCOUNT_LIST.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/loginserver/serverpackets/SM_ACCOUNT_LIST.java
+END

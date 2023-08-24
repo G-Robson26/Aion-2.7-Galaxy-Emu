@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/248/trunk/GameServer/src/gameserver/network/chatserver
+END
+CsServerPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/chatserver/CsServerPacket.java
+END
+ChatServerConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/chatserver/ChatServerConnection.java
+END
+ChatServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/248/trunk/GameServer/src/gameserver/network/chatserver/ChatServer.java
+END
+CsPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/chatserver/CsPacketHandler.java
+END
+CsClientPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/network/chatserver/CsClientPacket.java
+END

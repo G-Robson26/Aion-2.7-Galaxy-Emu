@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest_scripts>
+	<!-- 18400: The Vanishings handled by script -->
+	<!-- 18401: [Group] Research and Destruction -->
+	<monster_hunt start_npc_id="799553" id="18401">
+		<monster_infos var_id="0" npc_id="217200" max_kill="20"/>
+		<monster_infos var_id="0" npc_id="217201" max_kill="20"/>
+		<monster_infos var_id="0" npc_id="217202" max_kill="20"/>
+		<monster_infos var_id="0" npc_id="217228" max_kill="20"/>
+		<monster_infos var_id="0" npc_id="217203" max_kill="20"/>
+	</monster_hunt>
+	<!-- 18402: [Group] Rooting Out Corruption handled by script -->
+	<!-- 18403: [Group] Dratamin! Foiled Again! -->
+	<item_collecting id="18403" start_npc_id="799586"/>
+	<!-- 18404: [Group] Surkana-in-the-Box -->
+	<item_collecting id="18404" start_npc_id="799586"/>
+	<!-- 18405: Memories, in the Corner of His Mind handled by script -->
+	<!-- 18406: Playing To The Hilt handled by script -->
+	<!-- 18407: Drakan Journalism handled by script -->	
+	<!-- 18409: Tiamat Power Unleashed handled by script -->
+	<!-- 18410: Pursuing the Prisoners handled by script -->
+	<!-- 28400: Inspect the Inspectors handled by script -->
+	<!-- 28402: RD Researcher And Destroyhandled by script -->
+	<!-- 28405: Kexkra's Past handled by script -->
+	<!-- 28406: Finder's Fee handled by script -->
+	<!-- 28407: The Gathering handled by script -->
+	<!-- 28409: Make The Blade Complete handled by script -->
+	<!-- 28410: Fortress Unsecured handled by script -->
+	<!-- 28411: Esoterrace Blockade handled by script -->
+	<!-- 28413: Gambling Quest handled by script -->
+	<!-- 28412: TODO: Hidden Quest to Play Cut Scenes (Asmodian) -->
+	<!-- 18412: TODO: Hidden Quest to Play Cut Scenes (Elyos) -->
+</quest_scripts>

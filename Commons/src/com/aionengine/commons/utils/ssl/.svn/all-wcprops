@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/11/trunk/Commons/src/com/aionengine/commons/utils/ssl
+END
+CertificateAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/Commons/src/com/aionengine/commons/utils/ssl/CertificateAuthority.java
+END
+ResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/Commons/src/com/aionengine/commons/utils/ssl/ResourceLoader.java
+END
+PrivateKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/Commons/src/com/aionengine/commons/utils/ssl/PrivateKey.java
+END
+KeyStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/Commons/src/com/aionengine/commons/utils/ssl/KeyStore.java
+END

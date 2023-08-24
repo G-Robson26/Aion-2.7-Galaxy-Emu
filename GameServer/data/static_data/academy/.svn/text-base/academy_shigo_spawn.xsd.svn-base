@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:include schemaLocation="../import.xsd" />
+
+	<xs:element name="academy_shigo_spawns">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="import" minOccurs="0" maxOccurs="unbounded" />
+				<xs:element name="shigo_stage" type="AcademyShigoStage" minOccurs="0" maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:complexType name="AcademyShigoStage">
+		<xs:sequence>
+			<xs:element name="begin" type="AcademyShigoBegin" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="end" type="AcademyShigoEnd" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:int"/>
+	</xs:complexType>
+
+	<xs:complexType name="AcademyShigoBegin">
+		<xs:attribute name="map" type="xs:int" />
+		<xs:attribute name="npcid" type="xs:int" />
+		<xs:attribute name="x" type="xs:float" />
+		<xs:attribute name="y" type="xs:float" />
+		<xs:attribute name="z" type="xs:float" />
+		<xs:attribute name="h" type="Heads" />
+	</xs:complexType>
+
+	<xs:complexType name="AcademyShigoEnd">
+		<xs:attribute name="map" type="xs:int" />
+		<xs:attribute name="npcid" type="xs:int" />
+		<xs:attribute name="x" type="xs:float" />
+		<xs:attribute name="y" type="xs:float" />
+		<xs:attribute name="z" type="xs:float" />
+		<xs:attribute name="h" type="Heads" />
+	</xs:complexType>
+	
+	<xs:simpleType name="Heads">
+		<xs:restriction base="xs:byte">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="120"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+</xs:schema>

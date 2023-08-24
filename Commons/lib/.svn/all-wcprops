@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/11/trunk/Commons/lib
+END
+commons-io-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/Commons/lib/commons-io-1.4.jar
+END
+commons-dbcp-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/Commons/lib/commons-dbcp-1.4.jar
+END
+LICENCE_mysql-connector.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/Commons/lib/LICENCE_mysql-connector.txt
+END
+LICENSE_common_io.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/Commons/lib/LICENSE_common_io.txt
+END
+LICENSE_log4j.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/trunk/Commons/lib/LICENSE_log4j.txt
+END
+javac.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11/trunk/Commons/lib/javac.jar
+END
+commons-pool-1.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/Commons/lib/commons-pool-1.5.5.jar
+END
+LICENSE_commons-dbcp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/Commons/lib/LICENSE_commons-dbcp.txt
+END
+LICENSE_commons-pool.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/trunk/Commons/lib/LICENSE_commons-pool.txt
+END
+LICENSE_javac.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/11/trunk/Commons/lib/LICENSE_javac.txt
+END
+commons-lang-2.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/Commons/lib/commons-lang-2.5.jar
+END
+javolution-5.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/Commons/lib/javolution-5.5.1.jar
+END
+mysql-connector-java-5.1.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/Commons/lib/mysql-connector-java-5.1.13.jar
+END
+LICENSE_javolution.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/trunk/Commons/lib/LICENSE_javolution.txt
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/11/trunk/Commons/lib/log4j-1.2.16.jar
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/11/trunk/Tools/Ant/etc
+END
+coverage-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/coverage-frames.xsl
+END
+junit-frames-xalan1.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/junit-frames-xalan1.xsl
+END
+changelog.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/changelog.xsl
+END
+jdepend.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/jdepend.xsl
+END
+mmetrics-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/mmetrics-frames.xsl
+END
+maudit-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/maudit-frames.xsl
+END
+log.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/log.xsl
+END
+junit-noframes.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/junit-noframes.xsl
+END
+ant-bootstrap.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/ant-bootstrap.jar
+END
+jdepend-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/jdepend-frames.xsl
+END
+tagdiff.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/tagdiff.xsl
+END
+junit-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/Tools/Ant/etc/junit-frames.xsl
+END

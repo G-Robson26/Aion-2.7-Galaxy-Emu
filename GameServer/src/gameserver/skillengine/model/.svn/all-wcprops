@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/251/trunk/GameServer/src/gameserver/skillengine/model
+END
+SpellStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/SpellStatus.java
+END
+ActivationAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/ActivationAttribute.java
+END
+SkillTargetSlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/SkillTargetSlot.java
+END
+ProvokeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/ProvokeType.java
+END
+HopType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/HopType.java
+END
+SkillSubType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/SkillSubType.java
+END
+ProvokeTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/ProvokeTarget.java
+END
+Effect.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/skillengine/model/Effect.java
+END
+DashParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/skillengine/model/DashParam.java
+END
+AttackType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/AttackType.java
+END
+SkillTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/SkillTemplate.java
+END
+HealType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/HealType.java
+END
+TransformType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/TransformType.java
+END
+Skill.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/251/trunk/GameServer/src/gameserver/skillengine/model/Skill.java
+END
+SkillTargetRace.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/SkillTargetRace.java
+END
+SkillType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/SkillType.java
+END
+DispelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/model/DispelType.java
+END

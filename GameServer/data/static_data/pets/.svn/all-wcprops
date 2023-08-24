@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/109/trunk/GameServer/data/static_data/pets
+END
+pet_feed.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/GameServer/data/static_data/pets/pet_feed.xsd
+END
+pets.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/GameServer/data/static_data/pets/pets.xsd
+END
+pet_feed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/11/trunk/GameServer/data/static_data/pets/pet_feed.xml
+END
+pets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/109/trunk/GameServer/data/static_data/pets/pets.xml
+END

@@ -1,0 +1,695 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/262/trunk/GameServer/src/gameserver/skillengine/effect
+END
+DispelEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/DispelEffect.java
+END
+OneTimeBoostSkillCriticalEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/OneTimeBoostSkillCriticalEffect.java
+END
+SummonServantEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/176/trunk/GameServer/src/gameserver/skillengine/effect/SummonServantEffect.java
+END
+RootEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/RootEffect.java
+END
+HealOverTimeEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/HealOverTimeEffect.java
+END
+SlowEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SlowEffect.java
+END
+ReflectorEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ReflectorEffect.java
+END
+BlindEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/BlindEffect.java
+END
+SubEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SubEffect.java
+END
+DeboostHealEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/DeboostHealEffect.java
+END
+WeaponStatupEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/WeaponStatupEffect.java
+END
+FpAttackInstantEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/FpAttackInstantEffect.java
+END
+OneTimeBoostSkillAttackEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/OneTimeBoostSkillAttackEffect.java
+END
+HpUseOverTimeEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/HpUseOverTimeEffect.java
+END
+RebirthEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/RebirthEffect.java
+END
+OneTimeBoostHealEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/OneTimeBoostHealEffect.java
+END
+MpAttackEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/MpAttackEffect.java
+END
+ProcAtkInstantEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ProcAtkInstantEffect.java
+END
+SkillAttackEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SkillAttackEffect.java
+END
+SpellAttackEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SpellAttackEffect.java
+END
+HealEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/HealEffect.java
+END
+SpinEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SpinEffect.java
+END
+SignetBurstEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SignetBurstEffect.java
+END
+BindEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/BindEffect.java
+END
+DashEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/DashEffect.java
+END
+MoveBehindEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/MoveBehindEffect.java
+END
+LeapEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/LeapEffect.java
+END
+StatboostEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/StatboostEffect.java
+END
+DispelBuffCounterAtkEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/DispelBuffCounterAtkEffect.java
+END
+BoostHateEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/BoostHateEffect.java
+END
+StunEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/StunEffect.java
+END
+EffectId.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/EffectId.java
+END
+StaggerEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/StaggerEffect.java
+END
+WeaponStatboostEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/WeaponStatboostEffect.java
+END
+ConfuseEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ConfuseEffect.java
+END
+Effects.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/Effects.java
+END
+StatdownEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/StatdownEffect.java
+END
+RecallInstantEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/RecallInstantEffect.java
+END
+SearchEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SearchEffect.java
+END
+RandomMoveLocEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/177/trunk/GameServer/src/gameserver/skillengine/effect/RandomMoveLocEffect.java
+END
+ProvokerEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ProvokerEffect.java
+END
+ShieldEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ShieldEffect.java
+END
+PetOrderUseUltraSkillEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/PetOrderUseUltraSkillEffect.java
+END
+ResurrectBaseEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ResurrectBaseEffect.java
+END
+CarveSignetEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/CarveSignetEffect.java
+END
+StumbleEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/StumbleEffect.java
+END
+ItemHealDpEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ItemHealDpEffect.java
+END
+AbstractOverTimeEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/skillengine/effect/AbstractOverTimeEffect.java
+END
+ItemHealFpEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ItemHealFpEffect.java
+END
+ResurrectEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/128/trunk/GameServer/src/gameserver/skillengine/effect/ResurrectEffect.java
+END
+AlwaysParryEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/AlwaysParryEffect.java
+END
+ReturnEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ReturnEffect.java
+END
+SummonHomingEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/skillengine/effect/SummonHomingEffect.java
+END
+StatupEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/StatupEffect.java
+END
+MagicCounterAtkEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/MagicCounterAtkEffect.java
+END
+BoostHealEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/BoostHealEffect.java
+END
+ChangeMpConsumptionEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ChangeMpConsumptionEffect.java
+END
+CurseEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/CurseEffect.java
+END
+SilenceEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SilenceEffect.java
+END
+HealCastorOnAttackedEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/HealCastorOnAttackedEffect.java
+END
+PulledEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/PulledEffect.java
+END
+ArmorMasteryEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ArmorMasteryEffect.java
+END
+ItemHealMpEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ItemHealMpEffect.java
+END
+DelayedFPAttackInstantEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/DelayedFPAttackInstantEffect.java
+END
+SwitchHpMpEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SwitchHpMpEffect.java
+END
+ParalyzeEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ParalyzeEffect.java
+END
+SummonTotemEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/178/trunk/GameServer/src/gameserver/skillengine/effect/SummonTotemEffect.java
+END
+ItemHealEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ItemHealEffect.java
+END
+AuraEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/AuraEffect.java
+END
+DispelDebuffPhysicalEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/262/trunk/GameServer/src/gameserver/skillengine/effect/DispelDebuffPhysicalEffect.java
+END
+SwitchHostileEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SwitchHostileEffect.java
+END
+SignetEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SignetEffect.java
+END
+DamageOverTimeEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/DamageOverTimeEffect.java
+END
+DualMasteryEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/DualMasteryEffect.java
+END
+DispelDebuffEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/DispelDebuffEffect.java
+END
+HealDpEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/HealDpEffect.java
+END
+SkillAtkDrainInstantEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SkillAtkDrainInstantEffect.java
+END
+FpAttackEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/FpAttackEffect.java
+END
+StatswitchEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/StatswitchEffect.java
+END
+DispelDebuffMentalEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/DispelDebuffMentalEffect.java
+END
+XPBoostEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/XPBoostEffect.java
+END
+HealFpEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/52/trunk/GameServer/src/gameserver/skillengine/effect/HealFpEffect.java
+END
+SkillLauncherEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SkillLauncherEffect.java
+END
+BackDashEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/BackDashEffect.java
+END
+AlwaysDodgeEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/AlwaysDodgeEffect.java
+END
+SummonTrapEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SummonTrapEffect.java
+END
+HealMpEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/HealMpEffect.java
+END
+SnareEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SnareEffect.java
+END
+EffectTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/EffectTemplate.java
+END
+BufEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/BufEffect.java
+END
+BoostSkillCastingTimeEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/BoostSkillCastingTimeEffect.java
+END
+FearEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/FearEffect.java
+END
+DamageEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/DamageEffect.java
+END
+OpenAerialEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/OpenAerialEffect.java
+END
+ProtectEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ProtectEffect.java
+END
+CloseAerialEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/CloseAerialEffect.java
+END
+DispelBuffEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/DispelBuffEffect.java
+END
+ReturnPointEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ReturnPointEffect.java
+END
+AlwaysResistEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/AlwaysResistEffect.java
+END
+SummonGroupGateEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SummonGroupGateEffect.java
+END
+DelayDamageEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/DelayDamageEffect.java
+END
+AbstractHealEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/AbstractHealEffect.java
+END
+WeaponMasteryEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/WeaponMasteryEffect.java
+END
+SpellAtkDrainInstantEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SpellAtkDrainInstantEffect.java
+END
+MpUseOverTimeEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/MpUseOverTimeEffect.java
+END
+MpAttackInstantEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/MpAttackInstantEffect.java
+END
+PoisonEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/PoisonEffect.java
+END
+SleepEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SleepEffect.java
+END
+HideEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/HideEffect.java
+END
+TransformEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/TransformEffect.java
+END
+AlwaysBlockEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/AlwaysBlockEffect.java
+END
+BleedEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/BleedEffect.java
+END
+HostileUpEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/HostileUpEffect.java
+END
+ShieldMasteryEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/ShieldMasteryEffect.java
+END
+SummonEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/effect/SummonEffect.java
+END

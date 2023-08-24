@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/252/trunk/GameServer/src/gameserver/model/templates
+END
+TradeListTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/166/trunk/GameServer/src/gameserver/model/templates/TradeListTemplate.java
+END
+GatherableTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/GatherableTemplate.java
+END
+CubeExpandTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/CubeExpandTemplate.java
+END
+NpcTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/NpcTemplate.java
+END
+TitleTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/TitleTemplate.java
+END
+QuestTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/76/trunk/GameServer/src/gameserver/model/templates/QuestTemplate.java
+END
+WarehouseExpandTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/WarehouseExpandTemplate.java
+END
+GuildTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/225/trunk/GameServer/src/gameserver/model/templates/GuildTemplate.java
+END
+VisibleObjectTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/VisibleObjectTemplate.java
+END
+WorldMapTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/160/trunk/GameServer/src/gameserver/model/templates/WorldMapTemplate.java
+END
+BindPointTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/BindPointTemplate.java
+END

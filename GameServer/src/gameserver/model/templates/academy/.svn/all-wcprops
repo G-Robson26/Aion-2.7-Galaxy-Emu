@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/templates/academy
+END
+AcademyShigoEndSpawnList.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/templates/academy/AcademyShigoEndSpawnList.java
+END
+AcademyTeleportTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/templates/academy/AcademyTeleportTemplate.java
+END
+AcademyReSpawnTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/templates/academy/AcademyReSpawnTemplate.java
+END
+AcademySoloSpawnTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/templates/academy/AcademySoloSpawnTemplate.java
+END
+AcademyBoxSpawn.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/templates/academy/AcademyBoxSpawn.java
+END
+AcademySoloSpawnList.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/templates/academy/AcademySoloSpawnList.java
+END
+AcademyShigoBeginSpawnList.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/templates/academy/AcademyShigoBeginSpawnList.java
+END
+AcademySpawnList.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/templates/academy/AcademySpawnList.java
+END
+AcademySpawnTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/140/trunk/GameServer/src/gameserver/model/templates/academy/AcademySpawnTemplate.java
+END

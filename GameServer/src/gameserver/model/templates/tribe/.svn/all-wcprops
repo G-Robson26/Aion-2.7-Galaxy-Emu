@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/68/trunk/GameServer/src/gameserver/model/templates/tribe
+END
+HostileRelations.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/tribe/HostileRelations.java
+END
+NeutralRelations.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/tribe/NeutralRelations.java
+END
+SupportRelations.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/tribe/SupportRelations.java
+END
+FriendlyRelations.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/tribe/FriendlyRelations.java
+END
+AggroRelations.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/tribe/AggroRelations.java
+END
+Tribe.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/68/trunk/GameServer/src/gameserver/model/templates/tribe/Tribe.java
+END

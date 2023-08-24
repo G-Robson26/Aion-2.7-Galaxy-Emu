@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/stats
+END
+PetStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/stats/PetStatsTemplate.java
+END
+PlayerStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/stats/PlayerStatsTemplate.java
+END
+CalculatedPlayerStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/stats/CalculatedPlayerStatsTemplate.java
+END
+SummonStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/stats/SummonStatsTemplate.java
+END
+StatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/stats/StatsTemplate.java
+END
+NpcStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/stats/NpcStatsTemplate.java
+END
+NpcRank.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/stats/NpcRank.java
+END
+KiskStatsTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/stats/KiskStatsTemplate.java
+END
+ModifiersTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/model/templates/stats/ModifiersTemplate.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/task
+END
+GatheringTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/task/GatheringTask.java
+END
+CraftingTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/task/CraftingTask.java
+END
+AbstractCraftTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/task/AbstractCraftTask.java
+END
+AbstractInteractionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/11/trunk/GameServer/src/gameserver/skillengine/task/AbstractInteractionTask.java
+END
