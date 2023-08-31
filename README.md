@@ -1,6 +1,8 @@
 # Aion-2.7-Galaxy-Emu
 Based on Aion X Emu
 
+License [GNU Lesser GPL](https://www.gnu.org/licenses/lgpl-3.0.html)
+
 Features:
 
     Aion client version 2.7
